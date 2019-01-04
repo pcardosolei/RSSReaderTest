@@ -1,0 +1,33 @@
+img {
+	max-width: 50%;
+	display: block;
+	padding: 20px 0px;
+}
+
+p {
+	text-align: justify;
+}
+
+h1 {
+	text-align: center;
+	color: lightblue;
+}
+
+img, input {
+	margin: 0 auto;
+}
+
+.title {
+	text-align: italic;
+}
+
+.creator {
+	font-weight: bold;
+}
+
+.breakpoint {
+	margin: 20px 0px;
+	border: 2px solid grey;
+	max-width: 90vh;
+	justify-content: center;
+}

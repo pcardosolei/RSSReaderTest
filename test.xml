@@ -1,0 +1,945 @@
+<rss xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Engadget RSS Feed</title>
+<link>https://www.engadget.com/rss-full.xml</link>
+<image>
+<url>
+https://www.blogsmithmedia.com/www.engadget.com/media/feedlogo.gif?cachebust=true
+</url>
+<title>Engadget RSS Feed</title>
+<link>https://www.engadget.com/rss-full.xml</link>
+</image>
+<language>en-us</language>
+<description>
+Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics
+</description>
+<copyright>
+Copyright 2019 AOL Inc. The contents of this feed are available for non-commercial use only.
+</copyright>
+<item>
+<title>
+<![CDATA[
+Qualcomm shells out billions to uphold Apple's German iPhone ban
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/04/qualcomm-shells-out-billions-to-uphold-apples-german-iphone-ban/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/04/qualcomm-shells-out-billions-to-uphold-apples-german-iphone-ban/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/04/qualcomm-shells-out-billions-to-uphold-apples-german-iphone-ban/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1408%2C864%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C982&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F9f3558c0-1012-11e9-b962-d2b6c23a178f&amp;client=a1acac3e1b3290917d92&amp;signature=7cb8f1b74d6cdc2d435bc79736a50cd8bad6345a" /><p>Apple has been ordered to cease sales of older iPhones in Germany after Qualcomm paid security bonds of 1.34 billion Euros ($1.5 billion) to enforce a <a href="https://www.engadget.com/2018/12/20/apple-iphone-ban-germany-qualcomm/">court-issued ban</a>. The judgement was originally handed down on December 20th by a Munich court as part of an international patent dispute between the two companies. Apple was ordered to cease the sale, offer for sale and importation for sale of all iPhones that were deemed in infringement of Qualcomm's power saving technology.</p> <p></p> <p>While Apple said it would appeal the decision, it claimed it would continue to sell the infringing iPhones via third-party retailers. But in a statement released today, Qualcomm contradicts Apple's interpretation of the order by declaring that "the Court also ordered Apple to recall infringing iPhones from third party resellers in Germany." However, <a href="https://www.reuters.com/article/us-apple-qualcomm-court/apple-set-to-pull-some-iphones-from-its-german-stores-after-qualcomm-enforces-ban-idUSKCN1OX12O"><em>Reuters</em></a> notes that one such retailer (Gravis) is still selling the iPhone 7 and 8.</p> <p>Qualcomm's payment allows for an immediate enforcement of the injunction under German law. The sum essentially funds potential damages for Apple should the appeals process result in the decision being overturned. It marks the third such step taken by the chip-maker to ensure a ban on the infringing iPhones amidst its lengthy legal battle with Apple.</p> <p>Qualcomm won a <a href="https://www.engadget.com/2018/12/10/apple-iphone-x-ban-china-court-injunction-qualcomm/">similar ruling in China</a> that required Apple to stop selling the iPhone 6S, 6S Plus, 7, 7 Plus, 8, 8 Plus and X in the country over software disputes. But Apple continued to sell all its iPhones there following a <a href="https://www.engadget.com/2018/12/14/apple-china-iphone-qualcomm-patent/">software update</a> and pending a further legal ruling. Qualcomm also requested the Chinese courts <a href="https://www.engadget.com/2018/12/13/ualcomm-asks-china-to-ban-iphone-xs-and-xr/">extend the injunction</a> to the iPhone XS and XR.</p> <p><strong>Source: </strong><a target="_blank" href="https://www.qualcomm.com/news/releases/2019/01/03/qualcomm-posts-bonds-enforce-permanent-injunction-against-apple-iphones">Qualcomm</a><!--//--></p>
+]]>
+</description>
+<category>apple</category>
+<category>business</category>
+<category>gear</category>
+<category>injunction</category>
+<category>iphone</category>
+<category>iphone7</category>
+<category>iphone8</category>
+<category>lawsuit</category>
+<category>patentinfringement</category>
+<category>qualcomm</category>
+<dc:creator>
+<![CDATA[ Saqib Shah ]]>
+</dc:creator>
+<pubDate>Fri, 04 Jan 2019 07:05:00 -0500</pubDate>
+<dc:identifier>21|23633384</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+The Morning After: Behind the scenes of 'Bandersnatch'
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/04/the-morning-after-behind-the-scenes-of-bandersnatch/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/04/the-morning-after-behind-the-scenes-of-bandersnatch/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/04/the-morning-after-behind-the-scenes-of-bandersnatch/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F368c9970-0ffc-11e9-afb3-7ad15bf2a989&amp;client=a1acac3e1b3290917d92&amp;signature=b57622d328f1c0368bc668c0ddf15e05ebab209e" /><p>Hey, good morning! You look fabulous.</p> <p>As much of the team packs up and heads to Las Vegas, we'll drop in another recap full of pre-CES rumblings, and some hints on what we expect to see. Also, we'll investigate why Apple isn't selling more of its increasingly-expensive phones and look behind the scenes of <em>Bandersnatch</em>.</p> <hr /> <p><span class="t-meta t-bold pb-20 c-violet">It begins.</span><a href="https://www.engadget.com/2019/01/03/ces-2019-preview/?utm_medium=newsletter&amp;utm_source=morningafter">What to expect at CES 2019</a></p> <p><a href="https://www.engadget.com/2019/01/03/ces-2019-preview/?utm_medium=newsletter&amp;utm_source=morningafter"><img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F58f69100-0ffc-11e9-b2bf-fdec9937812e&amp;client=a1acac3e1b3290917d92&amp;signature=0736d3771c7a6041e75f329a93d23bcbb3b514c7" /></a></p> <p>We're not quite done dusting off the glitter from our New Year's Day celebrations, but it's time to turn our attention once again to that other big event in January: the Consumer Electronics Show (CES). From smart homes to the biggest of big-screen TVs, here's a brief sneak peek at what we expect from this year's show.</p> <div class="flex@m+ mt-40"> <div class="col-1-of-3@m+"><img class="full-width" src="https://o.aolcdn.com/engadget/image-assets/morning-after-static.png" /></div> <div class="col-2-of-3@m+ pl-40@m+ mt-40@s"><span class="t-section-title th-title" style="font-size: 22px;">Sign up for a daily newsletter of the most important stories in tech.</span><br /> <span class="t-meta">Just enter your email and we'll take care of the rest:</span> <form action="/a/mail_subscribe" class="relative pr-190@m+" method="post"><input name="csrf" type="hidden" value="eyJyIjoicXFRelRhdE4yMjZCQUlDaW5DTFBQU1BZN1BcL0l6M2M3THExeFRoMCtmWEU9IiwidCI6MTUzNTk2NDg3OSwicyI6InQ2TDVjcnFnbU1Eb0luSmRvUXBsZEhhNHhJMW1qaEpHTnQ1VGtSNWtJZmlEOXdsM3FDYWJwZ21Mc1FEZmVVMjBQN1FYMndMZUNcL1dqSlBjcXdJYWxGUT09In0=" /> <input class="input pl-15 pr-15 rounded c-gray-1 border bg-white-90 tx-meta mb-20@s" name="email" placeholder="Enter your email" type="text" /> <input name="redirect" type="hidden" value="https://www.engadget.com/thanks" /> <div class="absolute@m+ t-0 r-0 w-170@m+"><button class="o-btn o-btn--small th-btn-alt c-violet@tp- t-0 b-0 r-0 pl-20@tp- pr-20@tp- bc-white-50" type="submit"><span class="t-btn t-meta@s">Subscribe</span></button></div> </form> </div> </div> <hr /> <p><span class="t-meta t-bold pb-20 c-violet">When quarterly sales of $84 billion just aren't enough.</span><a href="https://www.engadget.com/2019/01/03/apple-iphone-upgrades-slowing-down/?utm_medium=newsletter&amp;utm_source=morningafter">Apple knows the age of yearly iPhone upgrades is over</a></p> <p><a href="https://www.engadget.com/2019/01/03/apple-iphone-upgrades-slowing-down/?utm_medium=newsletter&amp;utm_source=morningafter"><img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F59119310-0ffc-11e9-a6da-0d7d869d77da&amp;client=a1acac3e1b3290917d92&amp;signature=dbf74a566e5b8956965c08377d7856664cde60dc" /></a></p> <p>Every year when Engadget reviews a new iPhone, we note that Apple's silicon offers far more power than most users need. The good news is that a few years later, those chips are still enough for most people. And given how the pace of other innovations in smartphone hardware has slowed over the past few years, there's less reason than ever to upgrade every time a new iPhone arrives.</p> <hr /> <p><span class="t-meta t-bold pb-20 c-violet">Whatever you call it.</span><a href="https://www.engadget.com/2019/01/03/netflix-reveals-challenges-creating-bandersnatch/?utm_medium=newsletter&amp;utm_source=morningafter">Netflix reveals the challenges of creating 'Bandersnatch'</a></p> <p><a href="https://www.engadget.com/2019/01/03/netflix-reveals-challenges-creating-bandersnatch/?utm_medium=newsletter&amp;utm_source=morningafter"><img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F58f97730-0ffc-11e9-bbb9-719989c3f47c&amp;client=a1acac3e1b3290917d92&amp;signature=688c9af967b8df1af1ce7cd60f0a02fdc642b24a" /></a></p> <p>In a short (and fully linear) <a href="https://www.youtube.com/watch?v=zBsh7Byu044">video</a>, some of the people at Netflix explain everything that went into making last week's choose-your-own adventure episode of <em>Black Mirror</em>.</p> <hr /> <p><span class="t-meta t-bold pb-20 c-violet">Oh, we're doing this again?</span><a href="https://www.engadget.com/2019/01/03/vuzix-blade-hands-on/?utm_medium=newsletter&amp;utm_source=morningafter">Vuzix Blade $1,000 smart glasses are ready to meet your face</a></p> <p><a href="https://www.engadget.com/2019/01/03/vuzix-blade-hands-on/?utm_medium=newsletter&amp;utm_source=morningafter"><img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F590e5ec0-0ffc-11e9-9fff-9fa7e455c449&amp;client=a1acac3e1b3290917d92&amp;signature=9bb1e6cc8e0233d22428afd6279a85aaf799d434" /></a></p> <p>Last year, Vuzix teased a prototype of the Blade, a smaller, slimmer pair of smart glasses made for consumers. Not only does it come with a floating display a la Google Glass, it's also compatible with Alexa (and, eventually, Google Assistant). Now the company says it's ready to ship the Blade for $1,000 as it attempts to pick up where Google Glass left off.</p> <h3>But wait, there's more...</h3> <ul> <li><a href="https://www.engadget.com/2019/01/03/samsung-galaxy-s10-beyond-1-leak/?utm_medium=newsletter&amp;utm_source=morningafter">Samsung Galaxy S10 leak shows off its hole-punch display</a></li> <li><a href="https://www.engadget.com/2019/01/03/samsungs-space-saving-monitor-flat-against-wall/?utm_medium=newsletter&amp;utm_source=morningafter">Samsung's space-saving monitor can be pushed flat against the wall</a></li> <li><a href="https://www.engadget.com/2019/01/03/project-cars-developer-powerful-console-mad-box/?utm_medium=newsletter&amp;utm_source=morningafter">'Project Cars' developer is making 'most powerful console ever'</a></li> <li><a href="https://www.engadget.com/2019/01/03/toyota-p4-self-driving/?utm_medium=newsletter&amp;utm_source=morningafter">Toyota's latest self-driving test car is smarter than ever</a></li> <li><a href="https://www.engadget.com/2019/01/03/ohmibod-debuts-an-apple-watch-app-for-its-remote-vibrators/?utm_medium=newsletter&amp;utm_source=morningafter">OhMiBod debuts an Apple Watch app for its remote vibrators</a></li> <li><a href="https://www.engadget.com/2019/01/03/microsoft-patent-whisper-voice-assistants/?utm_medium=newsletter&amp;utm_source=morningafter">Microsoft patent suggests you inhale whisper to your voice assistants</a></li> <li><a href="https://www.engadget.com/2019/01/03/the-punisher-season-two-trailer-release-date-netflix/?utm_medium=newsletter&amp;utm_source=morningafter">'The Punisher' season two arrives on Netflix January 18th</a></li> </ul> <hr /> <p><em>The Morning After is a new daily newsletter from Engadget designed to help you fight off FOMO. Who knows what you'll miss if you don't <a href="https://www.engadget.com/about/newsletter/#morningafter">Subscribe</a>.</em></p> <p><em>Craving even more? <a href="https://www.facebook.com/Engadget/">Like us on Facebook</a> or <a href="https://twitter.com/Engadget/">Follow us on Twitter</a>.</em></p> <p><em>Have a suggestion on how we can improve The Morning After? <a href="https://www.engadget.com/about/contact/">Send us a note</a>.</em></p>
+]]>
+</description>
+<category>av</category>
+<category>entertainment</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gaming</category>
+<category>gear</category>
+<category>internet</category>
+<category>mobile</category>
+<category>themorningafter</category>
+<category>transportation</category>
+<category>wearables</category>
+<dc:creator>
+<![CDATA[ Richard Lawler ]]>
+</dc:creator>
+<pubDate>Fri, 04 Jan 2019 06:30:00 -0500</pubDate>
+<dc:identifier>21|23633262</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Neutrogena app 3D scans your face to create perfect-fit sheet masks
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/04/neutrogena-3d-scan-face-perfect-fit-sheet-mask/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/04/neutrogena-3d-scan-face-perfect-fit-sheet-mask/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/04/neutrogena-3d-scan-face-perfect-fit-sheet-mask/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=930%2C586%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1008&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fa87dbc00-0f55-11e9-af6a-68ef3d9350c7&amp;client=a1acac3e1b3290917d92&amp;signature=19b35d0698a6e7b4d68f69175eba2dc3421264c4" /><p>At CES last year, Neutrogena unveiled an <a href="https://www.engadget.com/2018/01/05/neutrogena-smartphone-skin-scanner/">iPhone attachment</a> that lets you examine the condition of your skin in excruciating detail -- pores, moisture levels, wrinkles you didn't even know were there, the lot. Now, branching off the Skin 360 tool, the company has unveiled an app that accurately measures your face to ensure a good fit for the sheet masks designed to counteract these skin woes.</p> <p></p> <p>The iOS app, called MaskiD, uses the <a href="https://www.engadget.com/2017/09/12/apple-face-id-iphone-x/">TrueDepth</a> camera in the iPhone X, XS and XR to capture a 3D image of your face, and create a sheet mask that fits it perfectly. The app doesn't have to be used in conjunction with the 360 Skin Tool, but pairing them up will help the app determine the best combination of ingredients for your skin's needs. The system uses five ingredients -- ranging from smoothing hyaluronic acid to exfoliating stabilized glucosamine -- that are <a href="https://www.engadget.com/2018/10/10/3d-printed-objects-collect-data-on-use/">3D printed</a> onto the mask in the exact places (forehead, cheeks, nose, chin, and so on) that need them.</p> <p>Anyone who's ever used a sheet mask will be well aware of the logistical fiasco involved in actually getting it on your face. Either the eye slits are in the wrong position, or you've got too much face (or not enough), and the upper lip band always ends up in your mouth, somehow. So while sheet masks are effective in theory, the whole experience is never as soothing and regenerative as Instagram's <a href="https://www.engadget.com/2018/08/17/snapchat-dysmorphia-selfies-plastic-surgery-social-media/">beauty influencers</a> would have you believe. MaskiD puts pay to that -- and that's a significant obstacle to overcome.</p> <p>MaskiD will be sold exclusively on Neutrogena.com to shoppers in the US from summer this year. Unsurprisingly, there's already a waiting list, so your first encounter with the product will inevitably be via <a href="https://www.engadget.com/2018/08/09/facebook-loreal-augmented-reality-makeup-try-ons/">tutorials on Instagram</a>. But as with all things in the beauty biz, where one leads, another will soon follow. It might not be too long until we say goodbye to sloppily-sized sheet masks forever.</p>
+]]>
+</description>
+<category>3dprinting</category>
+<category>app</category>
+<category>beauty</category>
+<category>ces2019</category>
+<category>design</category>
+<category>gear</category>
+<category>ios</category>
+<category>iphone</category>
+<category>medicine</category>
+<category>neutrogena</category>
+<category>sheetmask</category>
+<category>skincare</category>
+<category>truedepth</category>
+<category>wearables</category>
+<dc:creator>
+<![CDATA[ Rachel England ]]>
+</dc:creator>
+<pubDate>Fri, 04 Jan 2019 06:00:00 -0500</pubDate>
+<dc:identifier>21|23632593</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ ASUS unveils its first Chrome OS tablet ]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/04/asus-chrome-os-tablet/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/04/asus-chrome-os-tablet/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/04/asus-chrome-os-tablet/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1200%2C748%2C0%2C84&amp;quality=85&amp;format=jpg&amp;resize=1600%2C998&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F666a3a40-0ff6-11e9-adbd-bcb6f87ae007&amp;client=a1acac3e1b3290917d92&amp;signature=83f123513c194bd6a089e10a2c735801d38b461a" /><p>ASUS has <a href="http://promos.asus.com/US/PR_2019/ces_chromebook_EDU_series/index.html">added</a> four new devices to its Chrome OS lineup, including the brand's first tablet running the operating system. Like many other Chrome OS devices, all four are meant for <a href="https://www.engadget.com/2017/01/24/google-for-education-asus-acer-chromebook/">use in the classroom</a>, built with tough bodies and flexible hinges to be able to withstand abuse. The tablet (model CT100) was especially made for younger kids and has a thick rubberized chassis, as well as a 9.7-inch QXGA display that's covered in strong tempered glass. It also has 4GB of RAM, 32GB of onboard storage and is powered by Hexa-core OP1 processor made for Chromebooks.</p> <p>Next entry in the list is the Chromebook Flip C214 -- a follow-up to the <a href="https://www.engadget.com/2017/01/24/google-for-education-asus-acer-chromebook/">C213</a> -- which also has a rugged exterior, spill-proof keyboard <em>and </em>a 360-degree hinge. Since it's meant to be used as a laptop or as a tablet, ASUS placed its world-view camera in the bottom right corner of the palm rest for ease of use when in tablet mode. It's powered by Intel N4000 or N4100 Celeron processor, has 4GB of RAM and 32GB of storage, which can be expanded via microSD or via external storage through its USB Type-A port.</p> <p>The remaining two models are both laptops with 180-degree hinges, so they can lie flat and allow groups of students to work together using one device. C204 has an 11.6-inch HD display, while C403 has a 14-inch HD display. Both models come with 4GB of RAM, 32GB of storage, USB Type-C and Type-A ports, as well as a microSD card slot. The C204 will be powered by an Intel dual-core Celeron processor, but ASUS didn't specify the C403's CPU, other than saying that it's also dual-core. We'll see the devices and know more at CES 2019, where the tech giant will showcase them before their launch in the coming months.</p> <p><strong>Source: </strong><a target="_blank" href="http://promos.asus.com/US/PR_2019/ces_chromebook_EDU_series/index.html">Asus</a><!--//--></p>
+]]>
+</description>
+<category>asus</category>
+<category>ces2019</category>
+<category>chromebooks</category>
+<category>chromeos</category>
+<category>education</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<dc:creator>
+<![CDATA[ Mariella Moon ]]>
+</dc:creator>
+<pubDate>Fri, 04 Jan 2019 05:40:00 -0500</pubDate>
+<dc:identifier>21|23633242</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Bethesda resolves lawsuit claiming 'Westworld' ripped off 'Fallout Shelter'
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/04/bethesda-westworld-fallout-shelter-lawsuit-resolution/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/04/bethesda-westworld-fallout-shelter-lawsuit-resolution/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/04/bethesda-westworld-fallout-shelter-lawsuit-resolution/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1919%2C1080%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C900&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F590fd770-0fd2-11e9-ab6f-e8dc6a182256&amp;client=a1acac3e1b3290917d92&amp;signature=cfa629add086a44310cf01f4dbf2eeb569518aa6" /><p>Back in June 2018, Bethesda <a href="https://www.engadget.com/2018/06/22/bethesda-lawsuit-westworld-fallout-shelter-rip-off/">filed</a> a lawsuit against Behavior Interactive and Warner Bros, accusing them of ripping off <em>Fallout Shelter. </em>In its suit, the developer stressed the similarities in features, design, art style and gameplay between its free-to-play mobile title and Behavior's <em>Westworld</em> game for iOS and Android. Their legal battle is now over, but if you were expecting a dramatic conclusion, we're afraid you'll be sorely disappointed -- the companies have jointly announced that they "have amicably resolved the lawsuit." </p> <p>Bethesda originally worked with Behavior on <em>Fallout Shelter</em>. It claimed in its lawsuit that Behavior copied its code "to compress its development timeline, reduce costs and quickly bring the <em>Westworld</em> mobile game to market." <em>Westworld</em> even contained the same bugs earlier versions of <em>Fallout Shelter</em> had, it said. </p> <p>Unfortunately, the companies didn't reveal what they meant by "amicably" resolving the lawsuit and what kind of deal they hashed out, if any. According to <a href="https://www.polygon.com/fallout/2019/1/3/18167492/westworld-fallout-shelter-mobile-game-lawsuit"><em>Polygon</em></a>, though, a notice filed in federal court on December 12th said issue has been resolved and that both sides agreed to pay for their attorney's fees. Further, Bethesda reportedly "dismissed its claims with prejudice," and in legal terms, that means the plaintiff can no longer file another case on the same claim.</p>
+]]>
+</description>
+<category>behaviorinteractive</category>
+<category>bethesda</category>
+<category>falloutshelter</category>
+<category>gaming</category>
+<category>internet</category>
+<category>mobile</category>
+<category>warnerbros</category>
+<category>westworld</category>
+<dc:creator>
+<![CDATA[ Mariella Moon ]]>
+</dc:creator>
+<pubDate>Fri, 04 Jan 2019 04:05:00 -0500</pubDate>
+<dc:identifier>21|23633132</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+The NFL wants Alexa to be your playoff watching companion
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/04/nfl-rookies-guide-to-the-nfl-for-alexa-skill/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/04/nfl-rookies-guide-to-the-nfl-for-alexa-skill/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/04/nfl-rookies-guide-to-the-nfl-for-alexa-skill/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=5160%2C3440%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1067&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2Fd45ea760-0f89-11e9-bdc6-341b59687818&amp;client=a1acac3e1b3290917d92&amp;signature=c0154e38a06e8022c33d2d6ebd8e162c5b3a78b7" /><p>Just in time for the start of the playoffs, the NFL has released a new skill for Amazon Alexa devices. "<a href="https://www.amazon.com/dp/B07MBDWX9Q">A Rookie's Guide to the NFL</a>" will guide fans and folks who are new to the game through the 2019 postseason, with information about teams, rules, positions, players, equipment, formations and more. The skill is the NFL's first venture into apps with voice-enabled features and is available through the Alexa Skills Store starting today.</p> <p>To use the Rookie's Guide to the NFL, you'll have to download and enable the skill through your Alexa app. That will make it available through any of your Alexa devices. Once installed, you'll be able to ask Alexa football-specific questions as you watch the playoffs unfold. Ask things like "Who is Lamar Jackson?" or "How tall is Rob Gronkowski?" and Alexa will have the answers on hand.</p> <p>The skill should also prove handy when specific jargon that will come up during a broadcast. Not sure what the pistol formation looks like or what the nickel back is? The NFL's new app has the answer. In total, the skill has access to more than 1,000 terms and pieces of trivia. (It probably won't have much to say if a player <a href="https://www.engadget.com/2018/02/02/nfl-concussions-cte-technology-superbowl-lii/">suffers a concussion</a>, though.)</p> <p>In addition to answering all of your questions, the Rookie's Guide to the NFL skill also has a podcast baked into it. The five-minute broadcast called "Game Plan" provides previews before big matchups as well as insight and audio relevant to the games ahead. It's more in line with the NFL's previous Alexa offering, NFL in :60, that provides a flash briefing of all the top headlines around the league in 60 seconds. Alexa has also had the ability to <a href="https://www.engadget.com/2016/01/22/amazon-echo-alexa-movies-nfl/">provide scores to NFL games</a> without the need of an additional skill.</p> <p><strong>Via: </strong><a target="_blank" href="https://techcrunch.com/2019/01/03/the-nfl-launches-its-first-standalone-voice-app-with-a-rookies-guide-to-the-nfl-for-alexa/">TechCrunch</a><!--//--></p> <p><strong>Source: </strong><a target="_blank" href="https://www.amazon.com/dp/B07MBDWX9Q">Amazon</a><!--//--></p>
+]]>
+</description>
+<category>alexa</category>
+<category>alexaapp</category>
+<category>alexaskill</category>
+<category>alexaskills</category>
+<category>av</category>
+<category>gear</category>
+<category>mobile</category>
+<category>nfl</category>
+<category>nflin60</category>
+<category>rookiesguidetothenfl</category>
+<category>services</category>
+<dc:creator>
+<![CDATA[ AJ Dellinger ]]>
+</dc:creator>
+<pubDate>Fri, 04 Jan 2019 01:57:00 -0500</pubDate>
+<dc:identifier>21|23632893</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Toyota's latest self-driving test car is smarter than ever
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/toyota-p4-self-driving/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/toyota-p4-self-driving/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/toyota-p4-self-driving/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fcf89d810-0fdc-11e9-aedb-60b870ed6ce8&amp;client=a1acac3e1b3290917d92&amp;signature=81aa20302d7a245143b819850e96c531ef1d469c" /><p>We got a look at Toyota's first self-driving research vehicle <a href="https://www.engadget.com/2013/01/07/lexus-autonomous-car/">way back during CES 2013</a>, and now the company will introduce the <a href="https://newsroom.toyota.co.jp/en/corporate/26057919.html">updated P4 platform</a> at CES 2019. It upgrades on the <a href="https://www.engadget.com/2017/03/03/toyota-unveils-its-next-gen-autonomous-test-vehicle/">second</a> and <a href="https://www.engadget.com/2018/01/04/toyota-self-driving-test-car-platform-3-0-improved-sensing/">third</a> generation cars with the introduction of Lexus' latest flagship sedan, the LS 500h, but it doesn't stop there. The computer managing its technology has not only become more powerful than ever before, but it's also smaller so it tucks directly against the rear seat, and it only requires power from the hybrid battery, using a 12v battery of its own just as an emergency backup.</p> <p style="text-align: center;"><img alt="Toyota" data-caption="Toyota" data-credit="" data-credit-link-back="" data-dam-provider="" data-local-id="local-1-1003468-1546579683731" data-media-id="53203304-b534-36ac-969d-6e5b680df778" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/7bc6b8b0-0fe1-11e9-b2df-beac754a3b59" data-title="Toyota" src="https://o.aolcdn.com/images/dims?crop=1919%2C1280%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1067&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F7bc6b8b0-0fe1-11e9-b2df-beac754a3b59&amp;client=a1acac3e1b3290917d92&amp;signature=191817cd5eec777e916329199e2e359b2d7b8407" /></p> <p>The low-profile sensor array that debuted in the car's third generation is staying mostly the same, but there are two new cameras on the sides and two imaging sensors that it said have been developed specifically for autonomous vehicles. We'll meet the new car at Toyota's press conference on Monday when CEO Dr. Gill Pratt explains the company's advances in autonomous driving.</p> <p><img alt="Toyota" data-caption="Toyota" data-credit="" data-credit-link-back="" data-dam-provider="" data-local-id="local-2-4070263-1546579733838" data-media-id="3c242947-d9f4-3168-bc00-c801d10888b3" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/98b24930-0fe1-11e9-b7b3-b08f0a7c9b0d" data-title="Toyota" src="https://o.aolcdn.com/images/dims?crop=1920%2C1266%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1055&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F98b24930-0fe1-11e9-b7b3-b08f0a7c9b0d&amp;client=a1acac3e1b3290917d92&amp;signature=dba3a1cd8bed617ca7411539e7a7783e69e03f3b" /></p> <center><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="354" src="https://www.youtube.com/embed/Y8Y7LFpxFe4" width="630"></iframe></center> <p><strong>Source: </strong><a target="_blank" href="https://newsroom.toyota.co.jp/en/corporate/26057919.html">Toyota</a><!--//--></p>
+]]>
+</description>
+<category>autonomousvehicles</category>
+<category>ces2019</category>
+<category>gear</category>
+<category>self-drivingcar</category>
+<category>toyota</category>
+<category>toyotaresearchinstitute</category>
+<category>transportation</category>
+<dc:creator>
+<![CDATA[ Richard Lawler ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 23:56:00 -0500</pubDate>
+<dc:identifier>21|23633160</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Klipsch's true wireless earbuds charge in a Zippo-like case
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/klipsch-true-wireless-earbuds-stainless-steel-charging-case/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/klipsch-true-wireless-earbuds-stainless-steel-charging-case/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/klipsch-true-wireless-earbuds-stainless-steel-charging-case/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1447%2C1130%2C0%2C42&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1250&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F89816360-0f96-11e9-9feb-a466d216423b&amp;client=a1acac3e1b3290917d92&amp;signature=025f694979926ec819858c8fbb8df7e5fedef935" /><p><a href="https://www.engadget.com/2018/01/09/klipsch-speakers-alexa-google-assistant/">Klipsch</a> will showcase a range of audio gear at CES, including true wireless earbuds that charge in a case more stylish than most. At $199, the T5 True Wireless set will cost you $40 more than AirPods, though the charging case certainly catches the eye more than Apple's option.</p> <p>The earbuds have oval tips and should last for around eight hours on a single charge, though that <a href="https://gizmodo.com/klipschs-new-wireless-earbuds-are-wooing-with-me-with-a-1831403663">Zippo-</a><a class="gr-progress" href="https://gizmodo.com/klipschs-new-wireless-earbuds-are-wooing-with-me-with-a-1831403663">style</a><a href="https://gizmodo.com/klipschs-new-wireless-earbuds-are-wooing-with-me-with-a-1831403663"> case</a> can provide another 24 hours worth of power. You'll need to wait until at least June before you can pick up a pair for yourself.</p> <p><img alt="Klipsch T5 Neckband" data-caption="Klipsch T5 Neckband" data-credit="Klipsch" data-credit-link-back="" data-dam-provider="" data-local-id="local-1-4354011-1546548092291" data-media-id="be302e7e-7eaf-3554-a8d2-fd235e6a959f" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/ec9a6310-0f97-11e9-aff5-84f814fa0076" data-title="Klipsch T5 Neckband" src="https://o.aolcdn.com/images/dims?crop=1600%2C998%2C0%2C122&amp;quality=85&amp;format=jpg&amp;resize=1600%2C999&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fec9a6310-0f97-11e9-aff5-84f814fa0076&amp;client=a1acac3e1b3290917d92&amp;signature=9b5f150fd0d316cbe3ebeccc7fc4d2820694bb26" /></p> <p>Klipsch's T5 line includes a variety of earphones, including a wired set, tethered wireless earbuds and a neckband option. They'll cost between $59-199 and will be available in the spring. The company also plans to show off five new soundbars and more <a href="https://www.engadget.com/2018/01/09/klipsch-speakers-alexa-google-assistant/">Heritage Wireless speakers</a>.</p> <p></p>
+]]>
+</description>
+<category>ces2019</category>
+<category>earbuds</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>klipsch</category>
+<category>t5</category>
+<category>t5truewirelessearbuds</category>
+<category>truewireless</category>
+<dc:creator>
+<![CDATA[ Kris Holt ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 21:17:00 -0500</pubDate>
+<dc:identifier>21|23632940</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Whirlpool will let you control appliances with your Wear OS watch
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/whirlpool-wear-os-watch-support-oven-washer-drier/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/whirlpool-wear-os-watch-support-oven-washer-drier/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/whirlpool-wear-os-watch-support-oven-washer-drier/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=800%2C505%2C0%2C95&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1012&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fb3401cc0-0fa3-11e9-8bcf-752b8490c50d&amp;client=a1acac3e1b3290917d92&amp;signature=e9d84d4f02dd17a218e3fe4da78655a3facaacf4" /><p>At CES last year, Whirlpool <a href="https://www.engadget.com/2018/01/08/whirlpool-2018-smart-appliances/">announced</a> Alexa and Google Assistant support for its smart appliances, and noted it was working on an Apple Watch app. This time around, the company has <a href="https://www.whirlpoolcorp.com/whirlpool-corporation-expands-mobile-connectivity-to-include-wear-os-by-google/">revealed plans</a> for more ways to control its smart home products with <a href="https://www.engadget.com/2018/11/15/wear-os-version-h/">Wear OS</a> support, which will arrive later this year.</p> <p>You'll be able to use your watch to monitor and control your oven, adjust an active laundry cycle on the fly and keep tabs on your dryer. Whirlpool plans to announce several smart home products at CES, so it seems more devices you can control with your watch will arrive in the near future.</p> <p><strong>Source: </strong><a target="_blank" href="https://www.whirlpoolcorp.com/whirlpool-corporation-expands-mobile-connectivity-to-include-wear-os-by-google/">Whirlpool</a><!--//--></p>
+]]>
+</description>
+<category>ces2019</category>
+<category>drier</category>
+<category>gear</category>
+<category>google</category>
+<category>home</category>
+<category>oven</category>
+<category>smartwatch</category>
+<category>washer</category>
+<category>wearables</category>
+<category>wearos</category>
+<category>whirlpool</category>
+<dc:creator>
+<![CDATA[ Kris Holt ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 19:52:00 -0500</pubDate>
+<dc:identifier>21|23632986</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ FCC Chairman Ajit Pai cancels CES appearance ]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/fcc-ajit-pai-cancels-ces-appearance/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/fcc-ajit-pai-cancels-ces-appearance/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/fcc-ajit-pai-cancels-ces-appearance/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=3000%2C2312%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1233&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2F8093a150-0fa5-11e9-96bf-e0b06fd71540&amp;client=a1acac3e1b3290917d92&amp;signature=1719aa4b08520f7cd090bfffd30231293e1da248" /><p>For the second year in a row, FCC Chairman Ajit Pai has cancelled his appearance at CES, though this time around, it's under very different circumstances. According to <em><a href="https://subscriber.politicopro.com/tech/whiteboard/2019/01/fcc-nixing-trip-to-las-vegas-tech-expo-due-to-shutdown-2431256">Politico Pro</a></em>, both he and Commissioner Brendan Carr have had to cancel their CES plans due to the partial government shutdown that's still ongoing. Pai was supposed to discuss FCC plans with the Consumer Technology Association's Gary Shapiro while Carr was scheduled to take part in a roundtable discussion.</p> <p dir="ltr">Last year, Pai <a href="https://www.engadget.com/2018/01/03/fcc-chairman-ajit-pai-will-not-attend-ces/">pulled out of CES</a> due to safety concerns, which <a href="https://www.engadget.com/2018/01/04/ajit-pai-cancelled-ces-death-threats/">reportedly stemmed from death threats</a> he had received following the FCC's repeal of net neutrality. Pai issued a <a href="https://docs.fcc.gov/public/attachments/DOC-355824A1.pdf">statement</a> yesterday that addressed Congress's failure to overturn the FCC's net neutrality decision, applauding the House of Representatives for not reinstating "heavy-handed internet regulation." While the Senate <a href="https://www.engadget.com/2018/05/16/senate-barely-pass-resolution-restore-net-neutrality/">passed a resolution</a> to restore net neutrality earlier this year, the House of Representatives did not. The FCC's decision is still being <a href="https://www.engadget.com/2018/10/12/fcc-doj-urge-court-reject-challenge-net-neutrality/">challenged in court</a>, however.</p> <p>The FCC <a href="https://www.engadget.com/2018/12/31/fcc-suspend-operations-january-3rd-funding/">suspended</a> most of its operations today due to the government shutdown. A number of services <a href="https://docs.fcc.gov/public/attachments/DA-19-10A1.pdf">will be unavailable</a> until the funding lapse ends, including certain licensing and filing systems as well as the Consumer Complaint Center.</p> <p><strong>Via: </strong><a target="_blank" href="https://www.theverge.com/2019/1/3/18167311/ajit-pai-fcc-ces-19-consumer-electronics-government-shutdown">The Verge</a><!--//--></p>
+]]>
+</description>
+<category>ajitpai</category>
+<category>brendancarr</category>
+<category>ces</category>
+<category>ces2019</category>
+<category>fcc</category>
+<category>furlough</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>netneutrality</category>
+<category>politics</category>
+<category>shutdown</category>
+<dc:creator>
+<![CDATA[ Mallory Locklear ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 17:22:00 -0500</pubDate>
+<dc:identifier>21|23632995</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ Xiaomi might build a three-panel foldable phone ]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/xiaomi-three-panel-foldable-phone/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/xiaomi-three-panel-foldable-phone/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/xiaomi-three-panel-foldable-phone/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1600%2C1067%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1067&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F84f74860-0f8b-11e9-b935-fb66a362dd2a&amp;client=a1acac3e1b3290917d92&amp;signature=268ea849c40682cf32d8603b842af921bd1f56bb" /><p>Don't look now, but <a href="https://www.engadget.com/2018/11/07/samsung-foldable-phone-infinity-flex-display/">Samsung's foldable phone</a> might already be old hat. Reputable leaker Evan Blass has <a href="https://twitter.com/evleaks/status/1080870489990590464">shared</a> a video of what's believed to be a three-panel folding phone from Xiaomi. The dimly-lit clip shows precious little beyond the display, but it's clearly the centerpiece. In addition to providing a large landscape view, the two side panels can fold backward to provide a conventional phone-sized screen.</p> <p>It's not certain if this is actually a Xiaomi device, let alone a shipping product. There is some evidence to support the leak, though. <em>ET News</em> sources <a href="https://translate.google.com/translate?sl=ko&amp;tl=en&amp;u=http%3A%2F%2Fwww.etnews.com%2F20180727000417%3Fmc%3Dem_002_00001">reported</a> in July of last year that Xiaomi was developing an "outfolding" phone with plans to release it sometime in 2019. Moreover, the company is known for pushing the boundaries of smartphone design -- the <a href="https://www.engadget.com/2016/10/25/xiaomi-mi-mix/">Mi Mix</a> series touted nearly bezel-free displays months before other major brands followed suit. If any company is going to push the boundaries of foldable phones, Xiaomi would have to be on the short list of candidates.</p> <p>There are plenty of unknowns if you assume the rumor is true, though. Will this be as expensive as it looks? How does it handle photos? And do you have to fold it backward, or do you risk scratching the displays when you fold it up for your pocket? It's easy to see why Xiaomi might experiment all the same. A phone like this could serve as a halo model that attracts people to the brand, even if it only sells in tiny numbers. Also, there's the not-so-small matter of a <a href="https://www.engadget.com/2018/11/02/global-smartphone-sales-decline-6-percent/">shrinking smartphone market</a>. If brands like Xiaomi don't produce exciting phones, they risk losing customers who might pass on phones that are merely iterative upgrades.</p> <div align="center"> <blockquote class="twitter-tweet" data-lang="en"> <p dir="ltr" lang="en">Can't speak to the authenticity of this video or device, but it's allegedly made by Xiaomi, I'm told. Hot new phone, or gadget porn deepfake? <a href="https://t.co/qwFogWiE2F">pic.twitter.com/qwFogWiE2F</a></p> &mdash; Evan Blass (@evleaks) <a href="https://twitter.com/evleaks/status/1080870489990590464?ref_src=twsrc%5Etfw">January 3, 2019</a></blockquote> </div> <p><strong>Source: </strong><a target="_blank" href="https://twitter.com/evleaks/status/1080870489990590464">Evan Blass (Twitter)</a><!--//--></p>
+]]>
+</description>
+<category>android</category>
+<category>foldable</category>
+<category>foldablephone</category>
+<category>foldingphone</category>
+<category>gear</category>
+<category>leak</category>
+<category>mobile</category>
+<category>smartphone</category>
+<category>video</category>
+<category>xiaomi</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 16:58:00 -0500</pubDate>
+<dc:identifier>21|23632898</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Judge blocks NYC law requiring Airbnb to share host data
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/judge-blocks-nyc-law-airbnb-share-host-data/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/judge-blocks-nyc-law-airbnb-share-host-data/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/judge-blocks-nyc-law-airbnb-share-host-data/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=5568%2C3711%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1067&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2Fd3519240-0f8b-11e9-8ffd-6cd3af8ea274&amp;client=a1acac3e1b3290917d92&amp;signature=6c51adadf19b81646
+]]>
+<![CDATA[
+9f34b91daf3d3cf339dba9a" /><p>A federal judge has <a href="https://www.nytimes.com/2019/01/03/nyregion/nyc-airbnb-rentals.html">issued an injunction</a> against <a href="https://www.engadget.com/2018/07/19/airbnb-nyc/">a New York City law</a> that would require home-sharing companies like Airbnb and HomeAway to provide detailed information to the city about those who rent spaces through the platforms. Mayor Bill de Blasio signed the law in August and it was set to take effect next month. As defined by the law, the information these companies would be required to share with city officials would include the names and addresses of hosts as well as whether whole apartments or individual rooms were being rented.</p> <p dir="ltr">"The city has not cited any decision suggesting that the governmental appropriation of private business records on such a scale, unsupported by individualized suspicion or any tailored justification, qualifies as a reasonable search and seizure," Judge Paul Engelmayer wrote in his decision. He also described the amount of information required by the law as "breathtaking."</p> <p>Proponents of the law claim it will help NYC authorities enforce state regulations, which say for most buildings, apartments cannot be rented for less than 30 days unless the person living there resides in the apartment throughout the rental. They also say these laws are meant to help the city address its affordable housing crisis. "The vacancy rate in New York City is very low," City Council Speaker Corey Johnson told the <em><a href="https://www.nytimes.com/2018/07/18/nyregion/new-york-city-airbnb-crackdown.html?module=inline">New York Times</a></em> in July. "We're in an affordable housing crisis. We're in a homelessness crisis. And Airbnb will not give us this data."</p> <p>New York City isn't the only city to crack down on Airbnb listings. San Francisco <a href="https://www.engadget.com/2018/01/19/airbnb-san-francisco-listings-cut-in-half/">enacted a law</a> last year requiring hosts to register with the city and pay a fee to do so. Other cities and countries, including <a href="https://www.engadget.com/2016/12/10/airbnb-new-orleans-compromise/">New Orleans</a>, <a href="https://www.engadget.com/2018/06/08/airbnb-pulls-48000-rentals-in-japan/">Japan</a> and <a href="https://www.engadget.com/2018/03/28/airbnb-will-share-chinese-hosts-info-with-government/">China</a>, have instituted regulations on home-sharing companies as well.</p> <p>Some critics of the NYC law say it's flawed while others, like Airbnb itself, have maintained that limiting rentals hurts average New Yorkers. "The bill as written imposes needless challenges on the home-sharing industry, and comes with other concerns around privacy, tax revenue and vague language," Tech:NYC Executive Director Julie Samuels said in a statement. "Judge Engelmayer's ruling gives us time to revisit the law, offering stakeholders an opportunity to have a positive conversation about crafting more sensible, 21st century rules."</p> <p>In response to today's ruling, Airbnb said, "The decision today is a huge win for Airbnb and its users, including the thousands of New Yorkers at risk of illegal surveillance who use Airbnb to help make ends meet." Airbnb <a href="https://www.engadget.com/2018/08/25/airbnb-sues-nyc-avoid-sharing-host-data/">sued NYC</a> over its law in August, saying it violated residents' constitutional rights. Judge Engelmayer's injunction will remain in place while that litigation plays out.</p> <p>"This is a law to stop landlords from creating de facto hotels, which is unfair and illegal," Mayor de Blasio <a href="https://www.reuters.com/article/us-airbnb-lawsuit/judge-blocks-new-york-city-law-requiring-airbnb-to-hand-over-user-data-idUSKCN1OX19R">said</a> during a press conference. "We believe we'll ultimately prevail."</p> <p><strong>Via: </strong><a target="_blank" href="https://www.nytimes.com/2019/01/03/nyregion/nyc-airbnb-rentals.html">New York Times</a><!--//--></p>
+]]>
+</description>
+<category>airbnb</category>
+<category>gear</category>
+<category>homeaway</category>
+<category>injunction</category>
+<category>law</category>
+<category>lawsuit</category>
+<category>newyork</category>
+<category>newyorkcity</category>
+<category>politics</category>
+<category>regulation</category>
+<category>services</category>
+<dc:creator>
+<![CDATA[ Mallory Locklear ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 16:28:00 -0500</pubDate>
+<dc:identifier>21|23632899</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Wirecutter's best deals: Save $100 on an Apple HomePod
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/wirecutters-best-deals-sale-apple-homepod-music-bundle/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/wirecutters-best-deals-sale-apple-homepod-music-bundle/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/wirecutters-best-deals-sale-apple-homepod-music-bundle/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F8dcfa550-f991-11e8-8bf2-cdab0d26e7f7&amp;client=a1acac3e1b3290917d92&amp;signature=4327bf79c7645ec61dfd067c85ef96d59a6f0849" /><p><i>This post was done in partnership with </i><a data-rapid_p="1" data-v9y="1" href="https://thewirecutter.com/?utm_source=engadget&amp;utm_medium=referral&amp;utm_campaign=syndication&amp;utm_content=deals-12-27"><i>Wirecutter</i></a><i>. When readers choose to buy Wirecutter's independently chosen editorial picks, it may earn affiliate commissions that support its work. Read Wirecutter's continuously updated list of deals </i><a data-rapid_p="2" data-v9y="1" href="https://thewirecutter.com/deals/?utm_source=engadget&amp;utm_medium=referral&amp;utm_campaign=syndication&amp;utm_content=deals-12-27"><i>here</i></a><i>.</i></p> <h3><a href="https://wclink.co/link/29701/0/7/86430" target="_blank">Sengled Element Color Plus</a></h3> <p><img alt="led" data-caption="led" data-credit="Sengled" data-credit-link-back="" data-dam-provider="" data-local-id="local-2-1923120-1546542656868" data-media-id="576bad45-89f1-3fbf-aec6-e7bd493a8b2f" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/fcaa6640-0f8a-11e9-a797-d008a6efe283" data-title="led" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Ffcaa6640-0f8a-11e9-a797-d008a6efe283&amp;client=a1acac3e1b3290917d92&amp;signature=f35d60973e6593b5b791fc05e2e65622fdf90702" /></p> <p><strong><i>Street price: $70; deal price: $60</i></strong></p> <p>If you're looking to get into multicolor smart bulbs but don't have a lot to spend, this is a solid price for this recommended two-bulb kit with control hub. You'll sacrifice a small amount of brightness and Apple HomeKit functionality versus our other picks, but these light bulbs are still app-controllable and a nice value proposition. The typical street price averages around $70, reflective of an $80 full price and regular sales at $60, including during this past year's holiday season. We've only seen this kit lower on one occasion.</p> <p>The Sengled Element Color Plus kit is our budget pick in our guide to <a href="https://thewirecutter.com/reviews/best-smart-led-light-bulbs?utm_source=engadget&amp;utm_medium=referral&amp;utm_campaign=syndication&amp;utm_content=deals-01-03/#budget-pick-sengled-element-color-plus">the best smart LED light bulbs</a>. Grant Clauser wrote, "Sengled's Element Color Plus smart light system is a little like Philips Hue's in that it uses a Zigbee mesh network and a small hub to connect the lights. Although the lights aren't quite as bright as Hue's and the colors appear a little less rich, the bulbs are considerably cheaper and work similarly to more expensive ones, but with fewer features. The app includes only a few basic schedules and routines, but you can integrate them with Amazon Alexa and Google Assistant for voice control and to take advantage of all of the smart-home features of those systems. The bulbs are reliable and setup is simple, but they're not as expandable as other systems."</p> <h3><a href="https://wclink.co/link/6674/0/7/86431" target="_blank">EatSmart Precision CalPal Bathroom Scale</a></h3> <p><img alt="calpal" data-caption="calpal" data-credit="EatSmart" data-credit-link-back="" data-dam-provider="" data-local-id="local-3-2161902-1546542678699" data-media-id="bb92b221-eae9-35f2-a867-5c109bc25e19" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/0fb239c0-0f8b-11e9-b7f6-abbda376de8e" data-title="calpal" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F0fb239c0-0f8b-11e9-b7f6-abbda376de8e&amp;client=a1acac3e1b3290917d92&amp;signature=1606e027b3d0223ba2ec4dd5214b5d3c2f5fcf15" /></p> <p><strong><i>Street price: $30; deal price: $21</i></strong></p> <p>Down to $21, this is the lowest price we've seen on this bathroom scale, discounted just in time to tackle your resolutions in 2019. While this model doesn't offer some of the bells and whistles of smart scales (which we cover in <a href="https://thewirecutter.com/reviews/best-smart-scales/?utm_source=engadget&amp;utm_medium=referral&amp;utm_campaign=syndication&amp;utm_content=deals-01-03">a different guide</a>), it's notable because of how well it affordably does what it's supposed to do&mdash;provide accurate readings.</p> <p>The EatSmart Precision CalPal is the top pick in our guide to <a href="https://thewirecutter.com/reviews/the-best-bathroom-scales?utm_source=engadget&amp;utm_medium=referral&amp;utm_campaign=syndication&amp;utm_content=deals-01-03/#our-pick">the best bathroom scales</a>. Shannon Palus and Melanie Pinola wrote, "Our pick for best basic digital scale offers the essential features most people need in a scale&mdash;and then some. It's comfortable to stand on, the backlit display is one of the largest available (3.5 inches), it has a 440-pound weight capacity, and it turns on and off instantly. Weight readings are accurate and sensitive, detecting weight changes as small as 0.4 pound when other scales couldn't. The scale is backed by a confidence-inspiring two-year warranty, too. Also, although it's a relatively inexpensive bathroom scale, the EatSmart CalPal offers a few more features than just your weight reading, including last reading and memory for up to four people." </p> <h3><a href="https://wrctr.co/2LVs8Cd" target="_blank">TP-Link Archer A7 Router</a></h3> <p><img alt="tp-link" data-caption="tp-link" data-credit="TP-Link" data-credit-link-back="" data-dam-provider="" data-local-id="local-4-1143011-1546542702113" data-media-id="b523a1cf-331e-3777-a5c0-47ec922006f6" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/1c9ad250-0f8b-11e9-baff-8919af311b5a" data-title="tp-link" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F1c9ad250-0f8b-11e9-baff-8919af311b5a&amp;client=a1acac3e1b3290917d92&amp;signature=a22154aa8fe727e026afc5789db063e37032cebf" /></p> <p><strong><i>Street price: $60; deal price: $48 w/ code EMCTUTW36</i></strong></p> <p>The TP-Link Archer A7 Router is available for a great price of $48 when you use code <b>EMCTUTW36</b> at checkout. Typically priced around $70, this drop takes it a few dollars lower than typical deal pricing. We recommend this router for smaller spaces, and though it lacks band steering, we cite it as our favorite model under $100.</p> <p>The TP-Link Archer A7 is the budget pick in our guide to <a href="https://thewirecutter.com/reviews/best-wi-fi-router?utm_source=engadget&amp;utm_medium=referral&amp;utm_campaign=syndication&amp;utm_content=deals-01-03/#budget-pick-tp-link-archer-a7">the best Wi-Fi router for most people</a>. Jim Salter and Joel Santo Domingo wrote, "The TP-Link Archer A7 is just what we look for in an inexpensive router. Although it doesn't offer band steering, and its 5 GHz range is shorter than that of our top pick and runner-up, it's a solid router that kept our test devices reliably connected. If you have a smaller space with relatively few obstructions, and you're willing to use separate network names for your 2.4 GHz and 5 GHz bands, you can get almost the performance of a high-end router at about half the cost."</p> <h3><a href="https://wclink.co/link/23293/131951/7/86432" target="_blank">Apple HomePod + 3 Months Apple Music</a></h3> <p><img alt="apple" data-caption="apple" data-credit="Apple" data-credit-link-back="" data-dam-provider="" data-local-id="local-5-531416-1546542723597" data-media-id="d3082ff1-b456-3bf3-9875-356ebed0532d" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/2a3778a0-0f8b-11e9-bc66-b8c6f805b0c4" data-title="apple" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F2a3778a0-0f8b-11e9-bc66-b8c6f805b0c4&amp;client=a1acac3e1b3290917d92&amp;signature=e49212e3ceb6271a7d46f159e19000a879bca310" /></p> <p><strong><i>Street price: $350; deal price: $250</i></strong></p> <p>Recommended as a high-performance wireless speaker in our review, the Apple HomePod is back down to $250, one of the better prices we've seen for it. Though it is less broadly compatible with music services than many of its non-Apple competitors, at this price with a bonus it merits more attention, especially if you live in an Apple household or aspire to have one. This deal includes 3 months of Apple Music, a $30 value.</p> <p>The Apple HomePod is an option we recommend for Apple loyalists (if you understand its limitations) in <a href="https://thewirecutter.com/reviews/apple-homepod?utm_source=engadget&amp;utm_medium=referral&amp;utm_campaign=syndication&amp;utm_content=deals-01-03">our piece on it</a>. Jon Chase wrote, "Apple's HomePod is the best-sounding wireless smart speaker available, and you can control it by voice using Apple's virtual assistant, Siri. But the HomePod is worth considering only if you're an iPhone owner and a subscriber to Apple Music (or are willing to be)&mdash;don't buy it if you want to keep streaming Spotify. It does a lot of things right, but because it also has a long list of flaws, we don't believe it's the best smart speaker for most people."</p> <p><i>Because great deals don't just happen on Thursday, </i><a href="http://eepurl.com/9htb1"><i>sign up for our daily deals email</i></a><i> and we'll send you the best deals we find every weekday. Also, deals change all the time, and some of these may have expired. To see an updated list of current deals, </i><a href="https://thewirecutter.com/deals/?utm_source=engadget&amp;utm_medium=referral&amp;utm_campaign=syndication&amp;utm_content=deals-01-03"><i>please go here</i></a><i>.</i></p>
+]]>
+</description>
+<category>applehomepod</category>
+<category>archera7router</category>
+<category>av</category>
+<category>calpal</category>
+<category>deals</category>
+<category>eatsmart</category>
+<category>entertainment</category>
+<category>food and drink</category>
+<category>food-and-drink</category>
+<category>foodanddrink</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>home</category>
+<category>internet</category>
+<category>partner</category>
+<category>personal computing</category>
+<category>personalcomputing</category>
+<category>sengled</category>
+<category>smartbulb</category>
+<category>syndicated</category>
+<category>thewirecutter</category>
+<category>tp-link</category>
+<category>wirecutter</category>
+<dc:creator>
+<![CDATA[ Wirecutter ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 16:00:00 -0500</pubDate>
+<dc:identifier>21|23632892</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Microsoft tests feature to give people control over their personal data
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/microsoft-project-bali-personal-data-control-feature/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/microsoft-project-bali-personal-data-control-feature/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/microsoft-project-bali-personal-data-control-feature/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=800%2C463%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C926&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fhz%2Fimages%2FIN_AHTTP_REUTERS_WRAPPER_BUS_NEW%2F2019-01-02T105842Z_1_LYNXNPEF010H1_RTROPTP_3_BOSNIA-MICROSOFT_original.jpg&amp;client=a1acac3e1b3290917d92&amp;signature=7ce26e22cfb973c8bbd1fefa71b6f44b77bd2d0d" /><p>Microsoft appears to be working on a project called Bali that would give users the ability to control data collected about them. The feature, <a href="https://twitter.com/never_released/status/1080468842541924352">spotted</a> by Twitter user Longhorn, is being developed by the Microsoft Research team and appears to be in the stages of private testing for the time being.</p> <p>According to a <a href="https://ip-dev.cloudapp.net/home/about">project page</a> discovered by <a href="https://www.zdnet.com/article/microsoft-is-privately-testing-bali-a-way-to-give-users-control-of-data-collected-about-them/"><em>ZDNet</em></a>, the Bali project is based on the concept of inverse privacy. If there is information that only you have and no one else does, that is private. If there is information that someone else has about you but you <em>don't</em> have, that is inversely private. According to Microsoft, its goal is to reduce inverse privacy to a minimum.</p> <p>In order to do that, it is creating Bali, a "personal data bank" that puts users in control of any and all data collected about them. Any information that a user generates will be stored in the bank and the user will have the ability to view and manage that information. They will even be given the choice to share and monetize the data if they so choose. That makes the feature a bit different from similar offerings from companies like <a href="https://www.engadget.com/2018/03/28/facebook-privacy-checkup/">Facebook</a> and <a href="https://www.engadget.com/2018/10/24/google-search-data-controls-security/">Google</a>, which allow you to browse data collected about them but offer more limited control.</p> <p>Not much else is known about Bali for the time being. The project is described as being in its initial stages. There is a <a href="https://ip-dev.cloudapp.net/PrivateBeta">page</a> for Bali where early testers can enter a code to access the project and people without a code can request one, though you probably shouldn't expect an invite any time soon. Engadget reached out to Microsoft for more information regarding Bali and will update if we hear back.</p> <p><strong>Via: </strong><a target="_blank" href="https://www.zdnet.com/article/microsoft-is-privately-testing-bali-a-way-to-give-users-control-of-data-collected-about-them/">ZDNet</a><!--//-->, <a target="_blank" href="https://twitter.com/never_released/status/1080468842541924352">Longhorn</a><!--//--></p> <p><strong>Source: </strong><a target="_blank" href="https://ip-dev.cloudapp.net/home/about">Microsoft Research</a><!--//--></p>
+]]>
+</description>
+<category>bali</category>
+<category>dataprivacy</category>
+<category>datasecurity</category>
+<category>gdpr</category>
+<category>microsoft</category>
+<category>personaldata</category>
+<category>projectbali</category>
+<dc:creator>
+<![CDATA[ AJ Dellinger ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 15:17:00 -0500</pubDate>
+<dc:identifier>21|23632847</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ GM's EV tax credit might shrink soon ]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/gm-ev-tax-credit-phase-out-report/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/gm-ev-tax-credit-phase-out-report/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/gm-ev-tax-credit-phase-out-report/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1400%2C800%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C914&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F2c7f1fb0-0f80-11e9-afeb-8ddc3ae75dc5&amp;client=a1acac3e1b3290917d92&amp;signature=179eb81aa3fbe5fbe28da1ac85548a6dc5d829a4" /><p>If you were thinking about buying a <a href="https://www.engadget.com/2017/01/27/2017-chevy-bolt-ev-review/">Chevy Bolt</a> in the US, you might want to hop on that shortly. A <em>Reuters</em> <a href="https://www.reuters.com/article/us-gm-electric/gm-sold-200000-electric-vehicles-in-u-s-by-2018-triggering-tax-credit-phaseout-source-idUSKCN1OW1BO">source</a> claims that GM managed to sell a lifetime total of 200,000 electric cars by the end of 2018, triggering the EV tax credit phase-out that recently <a href="https://www.engadget.com/2019/01/02/tesla-cuts-prices-by-2000-to-offset-ev-tax-credit/">affected Tesla</a>. If accurate, you'll see the credit cut in half to $3,750 this April, drop again to $1,875 in October and disappear entirely in April 2020.</p> <p>GM has declined to comment, although it may say more when it releases its quarterly results on January 3rd (that's today, if you're reading in time). It had already predicted that it would reach the 200,000-car milestone by the end of 2018.</p> <p>The phase-out might not be permanent. A Senate bill has proposed <a href="https://www.engadget.com/2018/10/18/senate-considering-extending-ev-tax-credits/">dropping the unit cap</a> and extending tax credits until 2022. Separately, GM has advocated for a new <a href="https://www.engadget.com/2018/10/26/gm-electric-vehicles-national-tax-credit/">national tax credit program</a> and partnered with Nissan, Tesla and others to <a href="https://www.engadget.com/2018/11/14/tesla-gm-nissan-ev-tax-credits-coalition/">demand extended tax credits</a>. It's far from certain that GM will get what it wants, but you might not want to abandon your buying plans just yet.</p> <p>As it is, the transition is good news in a roundabout way. It indicates that EVs are selling well enough to be more than niche models -- not quite mainstream, but getting there.</p> <p><strong>Via: </strong><a target="_blank" href="https://www.popularmechanics.com/cars/hybrid-electric/a25728255/gm-ev-tax-credit-threshold/">Popular Mechanics</a><!--//--></p> <p><strong>Source: </strong><a target="_blank" href="https://www.reuters.com/article/us-gm-electric/gm-sold-200000-electric-vehicles-in-u-s-by-2018-triggering-tax-credit-phaseout-source-idUSKCN1OW1BO">Reuters</a><!--//--></p>
+]]>
+</description>
+<category>bolt</category>
+<category>car</category>
+<category>cars</category>
+<category>chevrolet</category>
+<category>chevy</category>
+<category>electriccar</category>
+<category>electricvehicle</category>
+<category>ev</category>
+<category>gear</category>
+<category>gm</category>
+<category>green</category>
+<category>taxcredit</category>
+<category>taxcredits</category>
+<category>transportation</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 14:42:00 -0500</pubDate>
+<dc:identifier>21|23632843</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Apple knows the age of yearly iPhone upgrades is over
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/apple-iphone-upgrades-slowing-down/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/apple-iphone-upgrades-slowing-down/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/apple-iphone-upgrades-slowing-down/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2F48986f40-0f84-11e9-bff7-9e8ea2a94bdb&amp;client=a1acac3e1b3290917d92&amp;signature=97adcf69816d24908203670d196b4f654dd1a0a9" /><p>After Apple introduced the iPhone XS, XS Max and XR, I wrote that consumers <a href="https://www.engadget.com/2018/09/13/apple-iphone-xs-xr-price-increases/">didn't seem to mind</a> how much more expensive iPhones had gotten over the past few years. But after Apple <a href="https://www.engadget.com/2019/01/02/apple-warns-on-iphone-sales/">unexpectedly admitted</a> yesterday that revenue for the last quarter would fall short of Apple's projections, I might have overstated things. It sure seems that the days of a new iPhone automatically driving big sales may be behind us. But those extremely high iPhone prices are just one piece of the puzzle, though -- let's break it down.</p> <p>In a <a href="https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/">letter to investors</a>, CEO Tim Cook noted that while the "vast majority of the year-over-year iPhone revenue decline" came from China and other emerging markets, demand wasn't as strong in developed markets either. Cook cited a handful of reasons for that, including fewer carrier subsidies, price increases due to the strength of the US dollar and customers taking advantage of "significantly reduced pricing" for iPhone battery replacements.</p> <p>That last point is particularly telling. As a reminder, Apple pledged to replace iPhone batteries <a href="https://www.engadget.com/2017/12/30/apple-29-iphone-battery-replacements-already-available/">for a reduced price</a> of $29 throughout 2018, a big discount from the standard $79 charge. The company cut replacement pricing after it was revealed that Apple throttled iPhone performance as batteries aged to keep the battery from failing altogether. Now, it seems that plenty of iPhone owners chose to replace their old battery as a way of putting off their next upgrade.</p> <p></p> <section data-eng-breakout="74922" data-eng-breakout-type="image" style="outline: 2px dashed red;"><img class="image-url" data-eng-breakout-field="img_url" data-eng-required="true" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F965f8ef0-0f86-11e9-ad3d-b51d98aa66ed&amp;client=a1acac3e1b3290917d92&amp;signature=92a734676ca61cc8b0934d9ace0b7ba9a32b9165" /></section> <p></p> <p>And why not? iOS 12 made older iPhones run much better than they did on iOS 11, to the point where using a three-year-old iPhone 6S became <a href="https://www.engadget.com/2018/09/18/apple-ios12-older-iphone-performance/">totally viable</a>, especially with a fresh new battery. And keeping an older phone is even more attractive for customers who were no longer making monthly payments for the device through the now-common installment plan. When faced with either buying a new iPhone -- a minimum of $30 a month for two years -- or upgrading iOS and spending $30 once on a battery replacement, it's easy to see why many opted to keep their old phone around longer.</p> <p>Every year when Engadget <a href="https://www.engadget.com/2018/09/21/apple-iphone-xs-and-xs-max-review/">reviews</a> <a href="https://www.engadget.com/2017/09/19/iphone-8-and-8-plus-review/">a new</a> <a href="https://www.engadget.com/2015/10/01/iphone-6s-and-6s-plus-review/">iPhone</a>, we note that Apple's silicon offers far more power than most users need. The good news is that a few years later, those chips are still enough for most people. And given how the pace of other innovations in smartphone hardware have slowed over the past few years, there's less reason than ever to upgrade every time a new iPhone arrives.</p> <p><img alt="iPhone Xr" data-caption="iPhone Xr" data-credit="Chris Velazco / Engadget" data-credit-link-back="" data-dam-provider="" data-local-id="local-1-9886020-1546540914229" data-media-id="473e9495-80ab-3139-a475-7dce81ac3452" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/300c39e0-0f87-11e9-bfec-7904d0431fa5" data-title="iPhone Xr" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F300c39e0-0f87-11e9-bfec-7904d0431fa5&amp;client=a1acac3e1b3290917d92&amp;signature=84cbf1fcd1ee6f5a3145fdb182837da1305fd9d2" /></p> <p>Also, for some users, buying an XS or XR isn't so much an upgrade as it is a compromise. I've talked to plenty of people who just miss the home button -- they don't care about the bigger screen or supposed convenience of Face ID. They spent years getting used to the home button and find the change more an annoyance than an improvement. As with the headphone jack, it's obvious that Apple will phase out the time-tested home button entirely, but people who prefer the old design are clearly not going to rush out and upgrade, particularly at the prices Apple is asking.</p> <p>Despite the challenges Apple is facing, it would be irresponsible not to note that Apple has only said it isn't making as much money as it expected to -- that's very different than Apple being "doomed." Apple's revised revenue projection for the quarter is now $84 billion. That's about 8 percent less than originally forecasted, but it's still the second-highest holiday quarter in the company's history. The company also raised the average sale price of an iPhone from $606 to $724 over the last year, so customers clearly haven't fully rejected more expensive devices.</p> <p>Cook also says that non-iPhone revenue grew 19 percent -- so despite the fact that basically all of Apple's products cost a lot more than they used to, most segments are still growing. Wall Street investors may panic over an iPhone downturn (stocks are down about 8 percent today compared to yesterday, and they've been dropping steadily since peaking in October), but Apple is financially well-positioned for years to come.</p> <p>It does raise the question about where future growth will come from, but Apple is still years away from needing to figure that out. (It also raises the question of if it's even reasonable to expect a wildly successful company that's been around for 40 years to grow year after year, but that's apparently how Wall Street thinks.) In the meantime, investors will just have to get used to a world where iPhone buyers upgrade after two or three years instead of every fall.</p> <p></p>
+]]>
+</description>
+<category>apple</category>
+<category>business</category>
+<category>editorial</category>
+<category>gear</category>
+<category>iphone</category>
+<category>iphonexr</category>
+<category>iphonexs</category>
+<category>mobile</category>
+<dc:creator>
+<![CDATA[ Nathan Ingraham ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 14:04:00 -0500</pubDate>
+<dc:identifier>21|23632869</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Netflix reveals the challenges of creating 'Bandersnatch'
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/netflix-reveals-challenges-creating-bandersnatch/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/netflix-reveals-challenges-creating-bandersnatch/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/netflix-reveals-challenges-creating-bandersnatch/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F11e480e0-0f7c-11e9-beff-542a5edd932c&amp;client=a1acac3e1b3290917d92&amp;signature=7757d8c7ec96d26b97782eebd1096b58f763b835" /><p>Last month, Netflix dropped its interactive film <em><a href="https://www.engadget.com/2018/12/28/black-mirror-bandersnatch-interactive-netflix-movie/">Black Mirror: Bandersnatch</a></em>, which lets viewers get involved in how the story plays out. Now the company is providing a look at some of the challenges the team faced while making the movie. "Part of the excitement of working at Netflix is constantly inventing what is internet TV," Todd Yellin, Netflix's VP of product, says in a short video released by the company. "There's a lot of responsibility because we are innovating on this whole new form."</p> <p>The team behind <em><a href="https://www.engadget.com/2018/12/28/you-can-play-one-of-the-games-from-black-mirror-bandersnatch/">Bandersnatch</a></em> discusses part of the process behind the making of the film, noting that they only wanted to do an interactive story if it added to the experience thematically. "We didn't really want it to feel like it was just a gimmick," said <em>Black Mirror</em> producer Annabel Jones.</p> <p>Netflix shows how the different story options added new challenges to the story development process as well how new technology had to be created to make the movie. "To really understand how it all fits together, needed whole new tools to be invented," explains Yellin. In the video, editors and script supervisors also describe the differences in managing a multi-pronged storyline like <em>Bandersnatch's</em> compared to a typical, linear film. "The fact that we're combining technology and design and innovation with incredible global storytelling really leads to exciting experiences like <em>Bandersnatch</em>," said Yellin.</p> <p>You can check out the video below.</p> <p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/zBsh7Byu044" width="640"></iframe></p> <p><strong>Source: </strong><a target="_blank" href="https://www.youtube.com/watch?v=zBsh7Byu044">Netflix</a><!--//--></p>
+]]>
+</description>
+<category>av</category>
+<category>blackmirror</category>
+<category>blackmirrorbandersnatch</category>
+<category>entertainment</category>
+<category>film</category>
+<category>filmmaking</category>
+<category>netflix</category>
+<category>video</category>
+<dc:creator>
+<![CDATA[ Mallory Locklear ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 13:32:00 -0500</pubDate>
+<dc:identifier>21|23632813</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+DoorDash will make autonomous food deliveries with help from GM
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/doordash-autonomous-food-deliveries-GM-Cruise/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/doordash-autonomous-food-deliveries-GM-Cruise/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/doordash-autonomous-food-deliveries-GM-Cruise/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1077%2C720%2C112%2C43&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1070&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F35939c10-0f4f-11e9-b6ed-b976acc05ea2&amp;client=a1acac3e1b3290917d92&amp;signature=74dce4b813fef12143e395d303d71a8424c87371" /><p>DoorDash has made it pretty clear that if you're hungry, it's going to be the company that makes sure you get what you want. Over the last year or so it's rolled out <a href="https://www.engadget.com/2017/09/28/doordash-group-ordering-food-delivery-app/">group ordering</a>, <a href="https://www.engadget.com/2018/04/24/walmart-grocery-delivery-atlanta-doordash/">grocery delivery</a> and even <a href="https://www.engadget.com/2017/07/07/baskin-robbins-door-dash-delivery-ice-cream-the-future-is-now/">ice cream delivery</a> -- all with <a href="https://www.engadget.com/2018/01/17/doordash-drivers-restaurant-leftovers-food-bank/">sustainability</a> on the agenda. Now, it's making sure you get fed as soon as is absolutely possible, thanks to a partnership with General Motors' Cruise self-driving vehicles.</p> <p>Early this year, a testing program will kick off in San Francisco testing and improving the efficiency of food and grocery delivery via <a href="https://www.engadget.com/2018/03/15/gm-is-spending-100-million-on-production-ready-autonomous-cars/">Cruise vehicles</a>. It's the first major consumer-facing partnership for Cruise, which had in the past toyed with the idea of teaming up with Lyft, and subsequently <a href="https://www.engadget.com/2017/10/18/gm-self-driving-cruise-program-uber/">Uber</a> -- evidently it identified a more lucrative market in satisfying hangry customers than in teaming up with companies already <a href="https://www.engadget.com/2018/12/11/uber-ignored-safety-warnings-before-self-driving-fatal/">under scrutiny</a> for their autonomous efforts.</p> <p>There's no word yet on exactly what the program will look like. It's certainly not the first of its kind, either. Oklahoma City stores have an autonomous grocery <a href="https://www.engadget.com/2018/09/14/oklahoma-city-autonomous-vehicles-grocery-delivery/">delivery service</a> in the pipeline, Postmates already has a <a href="https://www.engadget.com/2018/12/13/postmates-autonomous-delivery-robot-wall-e/">lunch delivery robot</a> on the streets and Kroger has added <a href="https://www.engadget.com/2018/12/18/kroger-adds-driverless-vehicles-grocery-delivery-fleet/">driverless vehicles</a> to its delivery fleet. It's no secret that autonomous vehicles will play a major role in the future of delivery, so it makes sense for DoorDash to get in on that sooner rather than later.</p>
+]]>
+</description>
+<category>autnomousdelivery</category>
+<category>business</category>
+<category>cruise</category>
+<category>delivery</category>
+<category>doordash</category>
+<category>driverlessvehicles</category>
+<category>entertainment</category>
+<category>food and drink</category>
+<category>food-and-drink</category>
+<category>foodanddrink</category>
+<category>gear</category>
+<category>gm</category>
+<category>robots</category>
+<category>services</category>
+<category>tomorrow</category>
+<category>transportation</category>
+<category>trial</category>
+<dc:creator>
+<![CDATA[ Rachel England ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 13:00:00 -0500</pubDate>
+<dc:identifier>21|23632566</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Samsung Galaxy S10 leak shows off its hole-punch display
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/samsung-galaxy-s10-beyond-1-leak/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/samsung-galaxy-s10-beyond-1-leak/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/samsung-galaxy-s10-beyond-1-leak/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1600%2C1067%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1067&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F70290760-0f78-11e9-bfbc-461400307aad&amp;client=a1acac3e1b3290917d92&amp;signature=42fb921657b09ad866f0ee4abc24e7b7c3fd5e35" /><p>Samsung's <a href="https://www.engadget.com/2018/11/20/samsung-galaxy-s10-leak/">Galaxy S10</a> appears to have leaked again -- and this time, it's not hiding <a href="https://www.engadget.com/2018/12/09/samsung-galaxy-s10-rumor-hints-at-corner-notch/">behind a disguise</a>. Well-known leaker Evan Blass has <a href="https://twitter.com/evleaks/status/1080839947135922177">posted</a> a photo of the Beyond 1 variant (that is, the standard 5.8-inch model) that very clearly shows its hole-punch display with a spot in the corner for the lone selfie camera. The icons are unsurprisingly blurred out to avoid giving too much away, but the image otherwise provides a clear view of what the front design will entail. While Samsung hasn't completely eliminated bezels (it needs one for the top speaker), they're now so small that they make the <a href="https://www.engadget.com/2018/03/08/samsung-galaxy-s9-and-s9-plus-review-video/">Galaxy S9's</a> chins seem enormous by comparison.</p> <p>Beyond 1 and its 6.4-inch Beyond 2 counterpart (likely to be called the S10 Plus) are expected to share many of the same features. That includes the likely use of Qualcomm's <a href="https://www.engadget.com/2018/12/05/qualcomm-snapdragon-855-7nm-cpu-5g-ai/">Snapdragon 855</a> processor in some regions (Samsung's <a href="https://www.engadget.com/2018/11/14/samsungs-new-phone-processor-has-hardware-for-on-device-ai/">Exynos 9820</a> chip in others) and, quite possibly, reverse wireless charging to top up other devices. However, the larger phone is poised to include two front cameras and three rear cameras where Beyond 1 would include 'just' one front cam and two rear shooters. There's also talk of a "lite" 5.8-inch S10 (Beyond 0) that would trim specs to keep the price down, as well as a 5G-equipped, 6.7-inch Beyond X device for the no-compromise crowd.</p> <p>If rumors are accurate, you'll have to wait until sometime in February, possibly at or near Mobile World Congress, to see the S10 family. You might also see Samsung's <a href="https://www.engadget.com/2018/11/07/samsung-foldable-phone-infinity-flex-display/">Infinity Flex</a>-based foldable phone at the same time. However many handsets launch at that time, it's likely to be one of Samsung's most important introductions in years. It's the first major redesign of the Galaxy S line since the S8 in 2017, and the company likely wants to pull out all the stops to both improve its <a href="https://www.engadget.com/2018/10/31/samsung-q3-2018-earnings/">so-so earnings</a> and keep buyers interested despite a declining smartphone market.</p> <div align="center"> <blockquote class="twitter-tweet" data-lang="en"> <p dir="ltr" lang="en">Samsung Galaxy S10 "Beyond 1," in the wild. <a href="https://t.co/EMquh59Kln">pic.twitter.com/EMquh59Kln</a></p> &mdash; Evan Blass (@evleaks) <a href="https://twitter.com/evleaks/status/1080839947135922177?ref_src=twsrc%5Etfw">January 3, 2019</a></blockquote> </div> <p><strong>Source: </strong><a target="_blank" href="https://twitter.com/evleaks/status/1080839947135922177">Evan Blass (Twitter)</a><!--//--></p>
+]]>
+</description>
+<category>android</category>
+<category>beyond1</category>
+<category>evleaks</category>
+<category>galaxys10</category>
+<category>gear</category>
+<category>leak</category>
+<category>mobile</category>
+<category>samsung</category>
+<category>smartphone</category>
+<dc:creator>
+<![CDATA[ Jon Fingas ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 12:39:00 -0500</pubDate>
+<dc:identifier>21|23632794</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+YouTube will livestream both weekends of Coachella in April
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/coachella-2019-youtube-streaming-details-ariana-grande-chldish-gambino/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/coachella-2019-youtube-streaming-details-ariana-grande-chldish-gambino/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/coachella-2019-youtube-streaming-details-ariana-grande-chldish-gambino/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=5080%2C3293%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1037&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2F9b9b5770-0f75-11e9-9d69-48df2edabbf4&amp;client=a1acac3e1b3290917d92&amp;signature=8b40999eecc30975709df82538280ddc786ad96e" /><p>YouTube is doubling down on its <a href="https://www.engadget.com/2017/04/04/youtube-coachella-livestream/">Coachella partnership</a> -- it will stream live performances from both weekends for the first time this year. As has been the case in recent years, the service will stream the festival's first weekend, which takes place April 12th-14th. This time around, YouTube <a href="https://variety.com/2019/digital/news/youtube-coachella-expanded-live-streaming-partnership-1203098430/">will host</a> a "curated live experience" on the second weekend, including select performances, artist vignettes and behind-the-scenes footage.</p> <p>YouTube is also Coachella's playlist partner for 2019. You'll be able to listen to tunes from performers, find emerging artists and delve into genre-based playlists on Coachella's site and app along with <a href="https://www.engadget.com/2018/12/13/youtube-music-chart-playlists/">YouTube Music.</a></p> <p>In addition, YouTube Music and Premium subscribers will have access to an exclusive number of passes when tickets go on sale Friday. Subscribers should receive an email with an access code before the sale starts at 2 PM ET. With a lineup including headliners Childish Gambino, Tame Impala and <a href="https://www.engadget.com/2018/12/04/spotify-top-streaming-drake-ariana-grande/">Ariana Grande</a>, the festival could sell out quickly yet again.</p> <p>If you don't manage to pick up a pass for the California festival, you'll still be able to watch live performances from the likes of Solange Knowles, Janelle Mon&aacute;e, H.E.R., the 1975, Weezer, Zedd, Diplo, Khalid, Chvrches, <a href="https://www.engadget.com/2018/07/09/jaden-smith-instagram-album/">Jaden Smith,</a> <a href="https://www.engadget.com/2018/04/18/netflix-lands-idris-elba-comedy-series/">Idris Elba</a> (who's a DJ as well as an actor), Kid Cudi, Aphex Twin and Jon Hopkins without having to leave your couch.</p> <p><strong>Via: </strong><a target="_blank" href="https://variety.com/2019/digital/news/youtube-coachella-expanded-live-streaming-partnership-1203098430/">Variety</a><!--//--></p>
+]]>
+</description>
+<category>aphextwin</category>
+<category>arianagrande</category>
+<category>av</category>
+<category>childishgambino</category>
+<category>chvrches</category>
+<category>coachella</category>
+<category>diplo</category>
+<category>entertainment</category>
+<category>google</category>
+<category>idriselba</category>
+<category>jadensmith</category>
+<category>janellemonae</category>
+<category>jonhopkins</category>
+<category>khalid</category>
+<category>kidcudi</category>
+<category>livestream</category>
+<category>music</category>
+<category>musicfestival</category>
+<category>solange</category>
+<category>solangeknowles</category>
+<category>streaming</category>
+<category>tameimpala</category>
+<category>weezer</category>
+<category>youtube</category>
+<category>zedd</category>
+<dc:creator>
+<![CDATA[ Kris Holt ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 12:08:00 -0500</pubDate>
+<dc:identifier>21|23632797</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Samsung's space-saving monitor can be pushed flat against the wall
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/samsungs-space-saving-monitor-flat-against-wall/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/samsungs-space-saving-monitor-flat-against-wall/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/samsungs-space-saving-monitor-flat-against-wall/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F2eb752e0-0f74-11e9-bbfa-597220cce4b8&amp;client=a1acac3e1b3290917d92&amp;signature=31951ec2facb826168404beff38b12a4947c5149" /><p><a href="https://www.engadget.com/2018/12/27/samsung-2019-smart-tvs-remote-access/">Samsung</a> will be showing off three new monitors at CES -- one aimed at saving space, another for gamers and a curved monitor geared towards content creators. The first is Samsung's Space Monitor, which comes with a fully-integrated arm that can attach to the edge of a desk, giving you more room to work. You can adjust it to your comfort and push it back flat against the wall when you're not using it, allowing you to maximize desk space when needed. The 27-inch model features QHD resolution, while the 32-model offers 4K UHD, and you can feed all of your cables through the arm to keep them organized and out of the way.</p> <p><img alt="Samsung CRG9" data-caption="Samsung CRG9" data-credit="Samsung" data-credit-link-back="" data-dam-provider="" data-local-id="local-1-1249347-1546532815256" data-media-id="e88e3fc6-7716-34d2-8eef-608447c2ae5e" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/471ee1e0-0f74-11e9-adfb-08f8e9fed067" data-title="Samsung CRG9" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F471ee1e0-0f74-11e9-adfb-08f8e9fed067&amp;client=a1acac3e1b3290917d92&amp;signature=ec691db2d95d415d1b2135e06cc2b3dc58699c56" /></p> <p>For gamers, Samsung has the CRG9, a super ultra-wide monitor equal to two side-by-side 27-inch 16:9 monitors. The CRG9 features a 120Hz refresh rate, dual QHD resolution, HDR10 and a peak brightness of 1,000 nits. It also offers picture-by-picture functionality and a smaller stand size for efficient space usage.</p> <p>Lastly, <a href="https://www.engadget.com/2018/12/12/samsung-notebook-9-pen/">Samsung</a> is unveiling its UR59C 32-inch monitor, which boasts a curved display with 3840x2160 4K UHD resolution. It also features a slim design, just 6.7mm deep, and a two-pronged base that minimizes how much space it takes up in your workspace.</p> <p>The Space Monitor and UR59C are available for pre-order now through Best Buy, Amazon and Samsung.com. Samsung says the CRG9 will be available later this year.</p> <p><span class="t-meta c-gray-4">Image: Samsung</span></p>
+]]>
+</description>
+<category>av</category>
+<category>ces2019</category>
+<category>crg9</category>
+<category>gaming</category>
+<category>gear</category>
+<category>monitor</category>
+<category>personal computing</category>
+<category>personalcomputing</category>
+<category>samsung</category>
+<category>spacemonitor</category>
+<category>ur59c</category>
+<dc:creator>
+<![CDATA[ Mallory Locklear ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 11:29:00 -0500</pubDate>
+<dc:identifier>21|23632760</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ What to expect at CES 2019 ]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/ces-2019-preview/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/ces-2019-preview/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/ces-2019-preview/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F40c9ab40-0ea2-11e9-b776-9929f557cc98&amp;client=a1acac3e1b3290917d92&amp;signature=febf9792863a775a49b743a053b82e0a9055db22" /><p>We're not q
+]]>
+<![CDATA[
+uite done dusting off the glitter from our New Year's Day celebrations, but it's time to turn our attention once again to that other big event in January: the Consumer Electronics Show (CES). Yes, the annual flurry of tech and gadgets returns to Las Vegas next week, and we'll be right there in the middle of it all to check out what's new. From smart homes to the biggest of big-screen TVs, here's a brief sneak peek at what we expect from this year's show.</p> <section data-eng-breakout="20254" data-eng-breakout-type="image" style="outline: 2px dashed red;"><img class="image-url" data-eng-breakout-field="img_url" data-eng-required="true" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Faddbeff0-0e9c-11e9-99c7-cc47d8a75106&amp;client=a1acac3e1b3290917d92&amp;signature=f68e9aeaa3db42e055f61bf46711f25dbf3650fa" /> <p class="image-caption" data-eng-breakout-field="caption">Walking through the valley of the shadow of OLEDs.</p> <p class="image-credit" data-eng-breakout-field="credit">Richard Lawler/Engadget</p> </section> <h3>Bigger, better screens</h3> <p>Maybe more than anything else, CES is a wonderland for people who obsess over screens. (It doesn't hurt that intense industry rivalries lead to ever-flashier spectacles.) From big to small, we're going to get a sense of what the displays of the future will look like. For the most part, though, expect to see screen technologies pioneered in the past to make their way into more mainstream products.</p> <p>Consider 8K: Does anyone <em>need</em> an <a href="https://www.engadget.com/2018/08/30/samsung-8k-qled-tv-first-look/">8K television</a>? Almost certainly not, especially when you consider the near-total lack of valuable 8K media out there. Still, that won't stop the LGs, Sonys and Samsungs of the world from showing off huge, insanely pixel-dense screens at CES, along with some more-measured 8K models people might actually be able to buy. That's right: 2019 is shaping up to be the year when you'll actually be able to walk into a store and buy an ultra-high-res TV. Of course, whether you'd <a href="https://www.engadget.com/2018/09/03/8k-tv/">truly benefit from one</a> in 2019 is another question entirely.</p> <p>Samsung is also expected to release a <a href="https://www.engadget.com/2018/07/23/samsung-the-wall-30mm-home-tv/">consumer-ready MicroLED television</a> based on the absolutely bonkers <a href="https://www.engadget.com/2018/01/08/samsung-the-wall-4k-microled/">Wall display</a> we saw last year, and we can't imagine <em>not </em>seeing it at CES. For those not in the loop, MicroLED screens like Samsung's pack all the same benefits (like punchy colors and pure blacks) as traditional OLED panels but have better longevity. The early model we got up close with last year wasn't exactly perfect (a telltale checkerboard pattern was visible on the screen when we got right next to it), but this year we'll find out if Samsung was right to dodge a more traditional design.</p> <p>Oh, and let's not forget that displays are getting more flexible too. Samsung wowed with its foldable-phone concept earlier this year, but a Chinese company called <a href="https://www.androidauthority.com/royole-flexpai-foldable-phone-review-922141/">Royole</a> plans to show off its own at CES. If you're the type to buy into rumors, LG might even have a <a href="https://www.techradar.com/news/lg-could-unveil-a-foldable-phone-in-early-2019">folding-phone announcement</a> in store for the show, though we wouldn't be surprised if the company saved it for another time. Regardless of what actually appears in Vegas, though, it's clear this once-crazy idea isn't so outlandish anymore. In fact, we wouldn't be surprised if CES 2020 was full of bendy phones and laptops.</p> <section data-eng-breakout="47267" data-eng-breakout-type="image" style="outline: 2px dashed red;"><img class="image-url" data-eng-breakout-field="img_url" data-eng-required="true" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fefa8f5c0-0e9e-11e9-9ffb-7c91aef7ce02&amp;client=a1acac3e1b3290917d92&amp;signature=35f045214e7f29d0ac1852c73f39fff021549835" /> <p class="image-credit" data-eng-breakout-field="credit">Nathan Ingraham/Engadget</p> </section> <h3>Virtual assistants everywhere</h3> <p>Amazon has a pretty big presence at this year's CES, with multiple booths spread out across several convention halls. Seeing as Google made a big splash last year with its enormous exhibition space as well as creating its own line of Echo Show rivals, it's no surprise that Amazon definitely wants to up its game. We expect to see Alexa integration not only in the usual connected displays and speakers but also in televisions, appliances and more. Amazon will even have its very own car-related exhibit to show off <a href="https://www.engadget.com/2018/09/20/amazon-echo-auto/">Alexa Auto</a>, an accessory that'll add the personal assistant to any compatible car. Expect Alexa to infiltrate every aspect of your lives.</p> <p>Of course, Amazon isn't the only company gunning to make its AI ubiquitous. Google made a splash with its massive outdoor booth last year -- it had a <em>slide</em>, for heaven's sake -- and exhibitor maps confirm the search giant is planning something just as big for CES 2019. If we had to guess, we'd say Google will be pushing Assistant hard once more. There's probably going to be a significant number of Assistant-powered devices on hand (last year we saw stuff from <a href="https://www.engadget.com/2018/08/01/jbl-google-assistant-smart-display-link-view-preorder/">JBL</a> and <a href="https://www.engadget.com/2018/07/26/lenovo-smart-display-review/">Lenovo</a>), and we wouldn't be surprised if the Assistant itself picks up a few new tricks come January. We don't know exactly what Google plans to announce, but let's be real: The company wouldn't have made its booth even bigger this year if there weren't something new to look forward to.</p> <p><img alt="Ikea lights" data-caption="Ikea lights" data-credit="Ikea" data-credit-link-back="undefined" data-dam-provider="other" data-local-id="local-2-3087015-1546442526486" data-media-id="d204b54c-02a0-317d-b950-50b4555a81ac" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/f19cf630-0ea1-11e9-b5ff-c94e85216693" data-title="Ikea lights" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Ff19cf630-0ea1-11e9-b5ff-c94e85216693&amp;client=a1acac3e1b3290917d92&amp;signature=499b8021ea09e6ac42f4dc27d23dda19b2598b45" /></p> <h3>Smarter homes</h3> <p>Connected fridges and ovens have always been a big part of CES, and we don't expect that to change this year. Some of that connectivity will probably bleed over into other aspects of the home, too, like the bathroom (smart toilets, anyone?). Plus, because not everyone is willing to cough up the big bucks for a new refrigerator, we might see smaller appliances like countertop ovens and crockpots get the connected treatment as well.</p> <p>We'll likely see increased integration of Google's Assistant and Amazon's Alexa in these appliances too. Be it smart doorbells or smart locks, the two assistants are sure to make their way into even more products than ever. With Amazon and Google already going head to head in the smart speaker and smart display categories, we definitely expect their rivalry to heat up at CES.</p> <section data-eng-breakout="47574" data-eng-breakout-type="image" style="outline: 2px dashed red;"><img class="image-url" data-eng-breakout-field="img_url" data-eng-required="true" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fabe74480-0e9f-11e9-bdf0-9556af3e4594&amp;client=a1acac3e1b3290917d92&amp;signature=4c8b52e1434b18cf81d97980e5cbf27f1696f16f" /> <p class="image-credit" data-eng-breakout-field="credit">Roberto Baldwin/Engadget</p> </section> <h3>Intelligent, entertaining cars</h3> <p>When it comes to automobiles, the focus at CES is on tech-related topics like autonomous driving and the latest EV innovations. This year, US Secretary of Transportation Elaine L. Chao is slated to be a keynote speaker at CES, and her talk will be on "the future of drones and self-driving technology." Car companies like Ford and Bosch/Daimler are expected to show off their research in the mobility space, such as new driver AI systems and the latest LIDAR sensors. Aside from self-driving cars, we'll also see autonomous tech on other kinds of vehicles like trucks and tractors.</p> <p>As autonomous vehicles take off, car companies have been grappling with how the future of infotainment might look like when you no longer need to keep your eyes on the road. At CES, Audi will be showing off an all-new in-car entertainment system that includes a movie theater experience, theoretically so you can catch a flick on your dashboard while sitting in traffic. Of course, we're likely years away from this being a reality, but that doesn't stop us from wanting to see it in person.</p> <p><img alt="5G" data-caption="5G" data-credit="Engadget" data-credit-link-back="undefined" data-dam-provider="Engadget" data-local-id="local-1-9577453-1546442403557" data-media-id="dfdab4e6-527e-34e5-bd0a-3e74e7b9a2c1" data-original-url="https://s.yimg.com/os/creatr-uploaded-images/2019-01/86ae8010-0ea0-11e9-b7ff-c59b6eaa26a9" data-title="5G" src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F86ae8010-0ea0-11e9-b7ff-c59b6eaa26a9&amp;client=a1acac3e1b3290917d92&amp;signature=fb18e1277b698f71847021e7475ccc1f4dacc7fc" /></p> <h3>The year of 5G</h3> <p>CES hasn't historically been a smartphone-heavy show; most big phone makers save their stuff for Mobile World Congress a few months later. That said, 2019 is going to be the first year people will actually be able to <a href="https://www.engadget.com/2018/12/04/att-to-carry-samsung-5g-smartphone/">use next-generation 5G data networks</a>, and we expect to hear a <em>lot</em> about what they'll make possible. The usual suspects like Verizon and AT&amp;T will be at the show, and their respective CEOs are slated to appear in keynote sessions that will dig into how 5G will impact entertainment, enterprises, cars, cities and more.</p> <p>If this sounds familiar, well, fair enough: Mobile leaders have foretold of a new industrial revolution built atop 5G connections for years now, and it has gotten pretty hard to differentiate hype from honesty. With carriers around the world preparing to light up their first 5G networks, though, this will be one of our last chances to consider the industry's lofty ambitions before reality starts to set in.</p> <p><span class="t-meta c-gray-4">Images: Ikea (smart home lights and sensors); Getty Images (5G)</span></p>
+]]>
+</description>
+<category>5g</category>
+<category>8k</category>
+<category>ces</category>
+<category>ces2019</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>impressions</category>
+<category>preview</category>
+<category>smarthome</category>
+<dc:creator>
+<![CDATA[ Engadget ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 11:00:00 -0500</pubDate>
+<dc:identifier>21|23631929</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+'The Punisher' season two arrives on Netflix January 18th
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/the-punisher-season-two-trailer-release-date-netflix/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/the-punisher-season-two-trailer-release-date-netflix/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/the-punisher-season-two-trailer-release-date-netflix/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=650%2C384%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C945&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F945a20d0-0f6c-11e9-a6ff-32ac3345a986&amp;client=a1acac3e1b3290917d92&amp;signature=2c5cce5d28eb1c75a09cb3143847e2269302717f" /><p>Netflix is beefing up its <a href="https://www.engadget.com/2018/12/12/netflix-arrivals-january-incredibles-2-antman-wasp-solo-star-wars-kimmy-schmidt/">already sizeable slate</a> of new shows and movies this month with the long-awaited arrival of <em>The Punisher</em>'s second season. The streaming service announced the January 18th release date with an intense <a href="https://www.youtube.com/watch?v=j9nca9cktCI">teaser trailer</a>.</p> <p>There's a chance this could be <em>The Punisher</em>'s swansong as Netflix has <a href="https://www.engadget.com/2018/11/29/daredevil-cancel-netflix/">canceled</a> several of its <a href="https://www.engadget.com/2018/10/12/iron-fist-cancel-netflix/">other Marvel series.</a> But fans will get at least one more chance to delve into Frank Castle's story, where it seems he'll have to confront old frenemy Billy Russo yet again.</p> <p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/j9nca9cktCI" width="560"></iframe></p> <p><strong>Source: </strong><a target="_blank" href="https://www.youtube.com/watch?v=j9nca9cktCI">Netflix (YouTube)</a><!--//--></p>
+]]>
+</description>
+<category>av</category>
+<category>entertainment</category>
+<category>jonbernthal</category>
+<category>marvel</category>
+<category>netflix</category>
+<category>streaming</category>
+<category>thepunisher</category>
+<category>trailer</category>
+<dc:creator>
+<![CDATA[ Kris Holt ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 10:40:00 -0500</pubDate>
+<dc:identifier>21|23632726</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[
+Microsoft patent suggests you inhale whisper to your voice assistants
+]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/microsoft-patent-whisper-voice-assistants/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/microsoft-patent-whisper-voice-assistants/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/microsoft-patent-whisper-voice-assistants/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F91233590-0f68-11e9-8f5f-526819a0f571&amp;client=a1acac3e1b3290917d92&amp;signature=87ade7dc4d3b9a56842e7e22220b41e8738b604c" /><p>While <a href="https://www.engadget.com/2018/12/13/google-assistant-australian-british-accent/">voice assistants</a> have grown in popularity over recent years, many people still hesitate to use them in public spaces, and that's a problem <a href="https://www.engadget.com/2018/12/22/microsoft-webcam-revival-leak/">Microsoft</a> is looking to tackle. In a <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018223388&amp;tab=FULLTEXT&amp;maxRec=1000">patent filing</a>, the company notes that for a number of reasons -- not wanting to disturb those nearby, not wanting to share private information around strangers -- people often avoid issuing voice commands when in public. "Although performance of voice input has been greatly improved, the voice input is still rarely used in public spaces, such as office or even homes," says the patent filing. "These are not technical issues but social issues. Hence there is no easy fix even if voice recognition system performance is greatly improved."</p> <p></p> <p>So to address the issue, <a href="https://www.engadget.com/2018/11/06/microsoft-cortana-chief-javier-soltero-leaving/">Microsoft</a> has come up with what it's calling "silent voice input," a way for people to use voice input technology, but quietly. However, while this method may be quiet, it's certainly not discrete.</p> <p>Here's what Microsoft has proposed. Rather than speaking into your phone or other device while out in public, it's suggesting you whisper into it. But not a normal whisper. Rather than a typical whisper, during which your breath moves out of your mouth, with silent voice input, you're supposed to inhale while you whisper. It's called ingressive airflow and Microsoft says it will prevent users' whispered voices from being distorted. And that's an issue because for this method to work, you have to put your mouth really close to the microphone. We're talking one to two millimeters close.</p> <p>Microsoft says the silent voice input technology could be embedded in a range of devices including phones, watches, TV remotes, headsets and rings. And while it's an interesting idea, if the goal is to make you less uncomfortable to use your voice assistant in public spaces, inhale whispering into your smart ring with your mouth nearly touching it doesn't seem like the best solution. In a way, it harkens back to when you were a kid and you pretended to be a spy, giving your friends orders by talking into your watch. But somehow it takes that childhood game and makes it incredibly uncool. Maybe it's the inhale whispering. It's definitely the inhale whispering.</p> <p dir="ltr">Of course, this is just a patent filing, so there's no guarantee this technology will ever see the light of day. Or maybe in the next few years we'll all just be awkwardly whispering into our TV remotes.</p> <p><strong>Via: </strong><a target="_blank" href="https://www.windowscentral.com/microsoft-has-patented-method-silent-voice-commands-maintaining-privacy">Windows Central</a><!--//--></p> <p><strong>Source: </strong><a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018223388&amp;tab=FULLTEXT&amp;maxRec=1000">WIPO</a><!--//--></p>
+]]>
+</description>
+<category>digitalassistant</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>internet</category>
+<category>microsoft</category>
+<category>patent</category>
+<category>tomorrow</category>
+<category>virtualassistant</category>
+<category>voicecommand</category>
+<category>whisper</category>
+<dc:creator>
+<![CDATA[ Mallory Locklear ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 10:31:00 -0500</pubDate>
+<dc:identifier>21|23632669</dc:identifier>
+</item>
+<item>
+<title>
+<![CDATA[ Amazon Echo Plus owners: Tell us what you think! ]]>
+</title>
+<link>
+https://www.engadget.com/2019/01/03/amazon-echo-plus-user-reviews/
+</link>
+<guid isPermaLink="false">
+https://www.engadget.com/2019/01/03/amazon-echo-plus-user-reviews/
+</guid>
+<comments>
+https://www.engadget.com/2019/01/03/amazon-echo-plus-user-reviews/#comments
+</comments>
+<description>
+<![CDATA[
+<img src="https://o.aolcdn.com/images/dims?crop=1200%2C800%2C0%2C0&amp;quality=85&amp;format=jpg&amp;resize=1600%2C1067&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fhz%2Fen_us%2FNews%2FReuters%2Fc67d2f090209f97bfd7c2d49adcd14f7&amp;client=a1acac3e1b3290917d92&amp;signature=a2ea5477db45279bb6ad7e2a842ee09710539356" /><p>When we <a href="https://www.engadget.com/2017/11/01/amazon-echo-plus-review/">reviewed</a> Amazon's updated Echo Plus, we concluded that the $120 device was a solid improvement with "some noticeable thump" and "crisper and more detailed" music tracks. But as a gadget that doubles as a smart home hub, it's less impressive. In particular, we were disappointed by the lack of support for Z-Wave or Lutron Clear Connect protocols, especially since the control over smart devices like the Hue bulbs felt basic and underwhelming for a smart home hub. While the audio and the price caught our attention, we ultimately didn't feel it was a necessary upgrade over the first-gen Echo.</p> <p>But that's just our take -- now we'd like to hear yours. Did you also encounter snags in syncing your smart home devices? Maybe you thought the bass is actually too heavy? When it came to grouping different smart home actions, how did you like Routines for Alexa? Submit your stories, thoughts and reviews on <a href="https://www.engadget.com/products/amazon/echo/plus/">our Echo Plus product page</a> so that other readers can gain from your hands-on time with the product.</p> <p><em>Note: Comments have been turned off for this post, to leave a review please go to our <a href="https://www.engadget.com/products/amazon/echo/plus/">Amazon Echo Plus</a> product page!</em></p>
+]]>
+</description>
+<category>amazon</category>
+<category>gadgetry</category>
+<category>gadgets</category>
+<category>gear</category>
+<category>home</category>
+<category>thebuyersguide</category>
+<category>userreviews</category>
+<dc:creator>
+<![CDATA[ Amber Bouman ]]>
+</dc:creator>
+<pubDate>Thu, 03 Jan 2019 10:00:00 -0500</pubDate>
+<dc:identifier>21|23623090</dc:identifier>
+</item>
+</channel>
+</rss>

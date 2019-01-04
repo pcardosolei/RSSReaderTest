@@ -18,7 +18,7 @@ img, input {
 }
 
 .title {
-	text-align: italic;
+	text-align: center;
 }
 
 .creator {
@@ -26,8 +26,12 @@ img, input {
 }
 
 .breakpoint {
-	margin: 20px 0px;
+	margin: 0 auto;
 	border: 2px solid grey;
-	max-width: 90vh;
+	width: 50vw;
 	justify-content: center;
+}
+
+.hidden {
+	display: none;
 }

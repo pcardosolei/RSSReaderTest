@@ -32,10 +32,16 @@ $(document).ready(function() {
 	function addContent(item) {
 		let title = "<h3 class='title'>"+item.querySelector('title').textContent+"</h3>";
 		let description = "<p>"+item.querySelector('description').textContent+"<p>";
-		let creator = "<h6 class='creator'>"+item.querySelector('creator').textContent+"</h6>";
-		let pubDate = "<h6>"+new Date(item.querySelector('pubDate').textContent)+"</h6>";
+		let creator = "<h5 class='creator'>"+item.querySelector('creator').textContent+"</h6>";
+		let pubDate = "<h6>"+betterLookingDate(item.querySelector('pubDate'))+"</h6>";
 		const info = "<div>"+title+creator+pubDate+description+"</div><div class='breakpoint'></div>";
 		$('#rss-feed').append(info);
+		$('#file-input').addClass('hidden');
+	}
+
+	function betterLookingDate(date){
+		const aux = new Date(date.textContent).toUTCString();
+		return aux.split(' ').slice(0,5).join(' ');
 	}
 
 	function parseRSS(data) {
